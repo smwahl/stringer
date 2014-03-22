@@ -1,0 +1,1843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss1full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.nature.com/~d/styles/itemcontent.css"?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+   <channel rdf:about="http://www.nature.com/nature/current_issue/rss">
+      <title>Nature - Issue - nature.com science feeds</title>
+      <description>Nature is the international weekly journal of science: a magazine style journal that publishes full-length research papers in all disciplines of science, as well as News and Views, reviews, news, features, commentaries, web focuses and more, covering all branches of science and how science impacts upon all aspects of society and life.</description>
+      <link>http://www.nature.com/nature/current_issue/</link>
+      <admin:generatorAgent rdf:resource="http://www.nature.com/" />
+      <admin:errorReportsTo rdf:resource="mailto:feedback@nature.com" />
+      <dc:publisher>Nature Publishing Group</dc:publisher>
+      <dc:language>en</dc:language>
+      <dc:rights>© 2014 Nature Publishing Group</dc:rights>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:issn>0028-0836</prism:issn>
+      <prism:eIssn>1476-4687</prism:eIssn>
+      <prism:copyright>© 2014 Nature Publishing Group</prism:copyright>
+      <prism:rightsAgent>permissions@nature.com</prism:rightsAgent>
+      <image rdf:resource="http://www.nature.com/includes/rj_globnavimages/nature_logo.gif" />
+      <items>
+         <rdf:Seq>
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507273a" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507273b" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507274a" />
+            <rdf:li rdf:resource="http://www.nature.com/doifinder/10.1038/507275a" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507276a" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507276b" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507276c" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507276d" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507277a" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507277b" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507277c" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507277d" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507277e" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507277f" />
+            <rdf:li rdf:resource="http://www.nature.com/doifinder/10.1038/507278a" />
+            <rdf:li rdf:resource="http://www.nature.com/doifinder/10.1038/507281a" />
+            <rdf:li rdf:resource="http://www.nature.com/doifinder/10.1038/507283a" />
+            <rdf:li rdf:resource="http://www.nature.com/doifinder/10.1038/507285a" />
+            <rdf:li rdf:resource="http://www.nature.com/doifinder/10.1038/507286a" />
+            <rdf:li rdf:resource="http://www.nature.com/doifinder/10.1038/507288a" />
+            <rdf:li rdf:resource="http://www.nature.com/doifinder/10.1038/507290a" />
+            <rdf:li rdf:resource="http://www.nature.com/doifinder/10.1038/507294a" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507297a" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507300a" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507303a" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507304a" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507305a" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507306a" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507306b" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507306c" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507306d" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507306e" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nj7492-389a" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nj7492-391a" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507394a" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507308a" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nature13212" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507310a" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nature13213" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/507313a" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nature13210" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nature12965" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nature13145" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nature13147" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nature12995" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nature13046" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nature13078" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nature13030" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nature12973" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nature12961" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nature12989" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nature12972" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nature12979" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nature13138" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nature13146" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nature12974" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nature13077" />
+            <rdf:li rdf:resource="http://dx.doi.org/10.1038/nature13142" />
+         </rdf:Seq>
+      </items>
+   <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://feeds.nature.com/nature/rss/current" /><feedburner:info uri="nature/rss/current" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+   <image rdf:about="http://www.nature.com/includes/rj_globnavimages/nature_logo.gif">
+      <title>Nature</title>
+      <url>http://www.nature.com/includes/rj_globnavimages/nature_logo.gif</url>
+      <link>http://www.nature.com/nature/</link>
+   </image>
+   <item rdf:about="http://dx.doi.org/10.1038/507273a">
+      <title>What lies beneath</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/dBZd7dPFcy0/507273a</link>
+      <description>A focus on specific biological targets rather than constellations of symptoms heralds a more scientific approach to the treatment of neuropsychiatric disorders.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>What lies beneath</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507273a">doi:10.1038/507273a</a>
+         </p>
+         <p>A focus on specific biological targets rather than constellations of symptoms heralds a more scientific approach to the treatment of neuropsychiatric disorders.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/dBZd7dPFcy0" height="1" width="1"/>]]></content:encoded>
+      <dc:title>What lies beneath</dc:title>
+      <dc:identifier>doi:10.1038/507273a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507273a</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507273a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Editorial</prism:section>
+      <prism:startingPage>273</prism:startingPage>
+      <prism:endingPage>273</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507273a</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507273b">
+      <title>How to get ahead</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/f5I-4m79SkU/507273b</link>
+      <description>The success of the $1,000 genome programme offers lessons for fostering innovation.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>How to get ahead</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507273b">doi:10.1038/507273b</a>
+         </p>
+         <p>The success of the $1,000 genome programme offers lessons for fostering innovation.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/f5I-4m79SkU" height="1" width="1"/>]]></content:encoded>
+      <dc:title>How to get ahead</dc:title>
+      <dc:identifier>doi:10.1038/507273b</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507273b</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507273b</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Editorial</prism:section>
+      <prism:startingPage>273</prism:startingPage>
+      <prism:endingPage>274</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507273b</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507274a">
+      <title>Past wisdom</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/E_DZt--tV48/507274a</link>
+      <description>The recent Nature PastCast series is instructive as well as entertaining.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Past wisdom</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507274a">doi:10.1038/507274a</a>
+         </p>
+         <p>The recent Nature PastCast series is instructive as well as entertaining.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/E_DZt--tV48" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Past wisdom</dc:title>
+      <dc:identifier>doi:10.1038/507274a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507274a</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507274a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Editorial</prism:section>
+      <prism:startingPage>274</prism:startingPage>
+      <prism:endingPage>274</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507274a</feedburner:origLink></item>
+   <item rdf:about="http://www.nature.com/doifinder/10.1038/507275a">
+      <title>Wanted: Fraud-buster with political antennae</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/FfkXiphmROs/507275a</link>
+      <description>A mild-mannered man’s fiery resignation leaves a troubling vacancy at the world’s largest office for investigating scientific fraud, says Colin Macilwain.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Wanted: Fraud-buster with political antennae</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://www.nature.com/doifinder/10.1038/507275a">http://www.nature.com/doifinder/10.1038/507275a</a>
+         </p>
+         <p>Author: Colin Macilwain</p>
+         <p>A mild-mannered man’s fiery resignation leaves a troubling vacancy at the world’s largest office for investigating scientific fraud, says Colin Macilwain.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/FfkXiphmROs" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Wanted: Fraud-buster with political antennae</dc:title>
+      <dc:creator>Colin Macilwain</dc:creator>
+      <dc:identifier>doi:10.1038/507275a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507275a</prism:doi>
+      <prism:url>http://www.nature.com/doifinder/10.1038/507275a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Column</prism:section>
+      <prism:startingPage>275</prism:startingPage>
+      <prism:endingPage>275</prism:endingPage>
+   <feedburner:origLink>http://www.nature.com/doifinder/10.1038/507275a</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507276a">
+      <title>Bionanotechnology: Nanotubes rev up photosynthesis</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/SqPxaRkoLoo/507276a</link>
+      <description>Carbon nanotubes that infiltrate leaves can boost photosynthetic activity and even turn plants into chemical sensors.Michael Strano and his colleagues at the Massachusetts Institute of Technology in Cambridge used near-infrared microscopes to track single-walled carbon nanotubes in the leaves of Arabidopsis plants (pictured) </description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Bionanotechnology: Nanotubes rev up photosynthesis</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507276a">doi:10.1038/507276a</a>
+         </p>
+         <p>Carbon nanotubes that infiltrate leaves can boost photosynthetic activity and even turn plants into chemical sensors.Michael Strano and his colleagues at the Massachusetts Institute of Technology in Cambridge used near-infrared microscopes to track single-walled carbon nanotubes in the leaves of Arabidopsis plants (pictured) </p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/SqPxaRkoLoo" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Bionanotechnology: Nanotubes rev up photosynthesis</dc:title>
+      <dc:identifier>doi:10.1038/507276a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507276a</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507276a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Research Highlights</prism:section>
+      <prism:startingPage>276</prism:startingPage>
+      <prism:endingPage>276</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507276a</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507276b">
+      <title>Neuroscience: Orange light boosts brain power</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/34cb4fwDUsE/507276b</link>
+      <description>The colour of the light you are exposed to could affect how well your brain functions.Gilles Vandewalle at the University of Liège, Belgium, Howard Cooper at the French National Institute of Health and Medical Research in Bron and their colleagues exposed 16 volunteers to </description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Neuroscience: Orange light boosts brain power</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507276b">doi:10.1038/507276b</a>
+         </p>
+         <p>The colour of the light you are exposed to could affect how well your brain functions.Gilles Vandewalle at the University of Li&#232;ge, Belgium, Howard Cooper at the French National Institute of Health and Medical Research in Bron and their colleagues exposed 16 volunteers to </p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/34cb4fwDUsE" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Neuroscience: Orange light boosts brain power</dc:title>
+      <dc:identifier>doi:10.1038/507276b</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507276b</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507276b</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Research Highlights</prism:section>
+      <prism:startingPage>276</prism:startingPage>
+      <prism:endingPage>276</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507276b</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507276c">
+      <title>Animal behaviour: Badgers roam many miles</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/mP4bsT-zaq4/507276c</link>
+      <description>Badgers could be travelling much greater distances than previously supposed, a finding that might affect how the animals are culled or vaccinated to prevent the spread of bovine tuberculosis.Andrew Byrne at University College Dublin and his colleagues marked 963 European badgers (Meles meles</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Animal behaviour: Badgers roam many miles</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507276c">doi:10.1038/507276c</a>
+         </p>
+         <p>Badgers could be travelling much greater distances than previously supposed, a finding that might affect how the animals are culled or vaccinated to prevent the spread of bovine tuberculosis.Andrew Byrne at University College Dublin and his colleagues marked 963 European badgers (Meles meles</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/mP4bsT-zaq4" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Animal behaviour: Badgers roam many miles</dc:title>
+      <dc:identifier>doi:10.1038/507276c</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507276c</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507276c</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Research Highlights</prism:section>
+      <prism:startingPage>276</prism:startingPage>
+      <prism:endingPage>276</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507276c</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507276d">
+      <title>Ecology: Killing dingoes has side effects</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/9-BxvRmQxzc/507276d</link>
+      <description>Efforts to control populations of a top predator in Australia have had unintended ecological effects — decreased vegetation and fewer small mammals.In southeastern Australia, government officials have been poisoning dingoes (Canis lupus dingo) to reduce the predator's impact on livestock. Mike Letnic </description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Ecology: Killing dingoes has side effects</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507276d">doi:10.1038/507276d</a>
+         </p>
+         <p>Efforts to control populations of a top predator in Australia have had unintended ecological effects &#8212; decreased vegetation and fewer small mammals.In southeastern Australia, government officials have been poisoning dingoes (Canis lupus dingo) to reduce the predator's impact on livestock. Mike Letnic </p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/9-BxvRmQxzc" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Ecology: Killing dingoes has side effects</dc:title>
+      <dc:identifier>doi:10.1038/507276d</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507276d</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507276d</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Research Highlights</prism:section>
+      <prism:startingPage>276</prism:startingPage>
+      <prism:endingPage>276</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507276d</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507277a">
+      <title>Molecular biology: How proteins find their DNA target</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/Sz9IO1bliyU/507277a</link>
+      <description>Researchers have captured images of individual proteins searching for their DNA-binding sites, and have quantified parts of this process.Zhe Liu and his team at the Howard Hughes Medical Institute in Ashburn, Virginia, looked at transcription factors — proteins that bind to specific genes to </description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Molecular biology: How proteins find their DNA target</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507277a">doi:10.1038/507277a</a>
+         </p>
+         <p>Researchers have captured images of individual proteins searching for their DNA-binding sites, and have quantified parts of this process.Zhe Liu and his team at the Howard Hughes Medical Institute in Ashburn, Virginia, looked at transcription factors &#8212; proteins that bind to specific genes to </p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/Sz9IO1bliyU" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Molecular biology: How proteins find their DNA target</dc:title>
+      <dc:identifier>doi:10.1038/507277a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507277a</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507277a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Research Highlights</prism:section>
+      <prism:startingPage>277</prism:startingPage>
+      <prism:endingPage>277</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507277a</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507277b">
+      <title>Glaciology: More of Greenland is starting to melt</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/l8v9OOfmNxM/507277b</link>
+      <description>Once-stable glaciers in northeast Greenland are now shrinking as a result of regional warming.Shfaqat Khan at the Technical University of Denmark in Kongens Lyngby and his colleagues analysed satellite and airborne-elevation measurements of three glaciers that comprise the 600-kilometre-long northeast Greenland ice stream. The </description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Glaciology: More of Greenland is starting to melt</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507277b">doi:10.1038/507277b</a>
+         </p>
+         <p>Once-stable glaciers in northeast Greenland are now shrinking as a result of regional warming.Shfaqat Khan at the Technical University of Denmark in Kongens Lyngby and his colleagues analysed satellite and airborne-elevation measurements of three glaciers that comprise the 600-kilometre-long northeast Greenland ice stream. The </p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/l8v9OOfmNxM" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Glaciology: More of Greenland is starting to melt</dc:title>
+      <dc:identifier>doi:10.1038/507277b</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507277b</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507277b</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Research Highlights</prism:section>
+      <prism:startingPage>277</prism:startingPage>
+      <prism:endingPage>277</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507277b</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507277c">
+      <title>Agriculture: Warming climate threatens crops</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/rUhFsJwcUf4/507277c</link>
+      <description>Climate change could result in decreasing yields of staple food crops in most parts of the world from the 2030s onwards.Andrew Challinor at the University of Leeds, UK, and his team compared the results of more than 1,700 simulations of climate change impacts — </description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Agriculture: Warming climate threatens crops</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507277c">doi:10.1038/507277c</a>
+         </p>
+         <p>Climate change could result in decreasing yields of staple food crops in most parts of the world from the 2030s onwards.Andrew Challinor at the University of Leeds, UK, and his team compared the results of more than 1,700 simulations of climate change impacts &#8212; </p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/rUhFsJwcUf4" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Agriculture: Warming climate threatens crops</dc:title>
+      <dc:identifier>doi:10.1038/507277c</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507277c</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507277c</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Research Highlights</prism:section>
+      <prism:startingPage>277</prism:startingPage>
+      <prism:endingPage>277</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507277c</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507277d">
+      <title>Human evolution: Hominin explorers were poor planners</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/app4BsuwF7c/507277d</link>
+      <description>Hominin migrations, such as those out of Africa, might have been led by individuals with low levels of foresight.A team led by Colin Wren at McGill University in Montreal, Canada, modelled the migratory behaviour of individuals, based on the complexity of their environments and </description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Human evolution: Hominin explorers were poor planners</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507277d">doi:10.1038/507277d</a>
+         </p>
+         <p>Hominin migrations, such as those out of Africa, might have been led by individuals with low levels of foresight.A team led by Colin Wren at McGill University in Montreal, Canada, modelled the migratory behaviour of individuals, based on the complexity of their environments and </p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/app4BsuwF7c" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Human evolution: Hominin explorers were poor planners</dc:title>
+      <dc:identifier>doi:10.1038/507277d</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507277d</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507277d</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Research Highlights</prism:section>
+      <prism:startingPage>277</prism:startingPage>
+      <prism:endingPage>277</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507277d</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507277e">
+      <title>Physics: Micro-pump with no moving parts</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/DdFNp44VZlA/507277e</link>
+      <description>A pump can propel liquids along millimetre-sized channels at high speeds with no mechanical parts.The pump, designed by Khashayar Khoshmanesh at the Royal Melbourne Institute of Technology University in Australia and his colleagues, is a droplet of metal — an alloy of gallium, indium </description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Physics: Micro-pump with no moving parts</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507277e">doi:10.1038/507277e</a>
+         </p>
+         <p>A pump can propel liquids along millimetre-sized channels at high speeds with no mechanical parts.The pump, designed by Khashayar Khoshmanesh at the Royal Melbourne Institute of Technology University in Australia and his colleagues, is a droplet of metal &#8212; an alloy of gallium, indium </p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/DdFNp44VZlA" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Physics: Micro-pump with no moving parts</dc:title>
+      <dc:identifier>doi:10.1038/507277e</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507277e</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507277e</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Research Highlights</prism:section>
+      <prism:startingPage>277</prism:startingPage>
+      <prism:endingPage>277</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507277e</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507277f">
+      <title>Nanotechnology: 3D printing goes nanoscale</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/0F6800e3hsQ/507277f</link>
+      <description>Researchers have used a three-dimensional (3D) printing technique to stack nanometre-scale polymer threads on top of one another, forming a tiny wall.A promising 3D nanoscale printing method involves spinning nanofibres out of a liquid under a strong electrical field. But only certain shapes have </description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Nanotechnology: 3D printing goes nanoscale</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507277f">doi:10.1038/507277f</a>
+         </p>
+         <p>Researchers have used a three-dimensional (3D) printing technique to stack nanometre-scale polymer threads on top of one another, forming a tiny wall.A promising 3D nanoscale printing method involves spinning nanofibres out of a liquid under a strong electrical field. But only certain shapes have </p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/0F6800e3hsQ" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Nanotechnology: 3D printing goes nanoscale</dc:title>
+      <dc:identifier>doi:10.1038/507277f</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507277f</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507277f</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Research Highlights</prism:section>
+      <prism:startingPage>277</prism:startingPage>
+      <prism:endingPage>277</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507277f</feedburner:origLink></item>
+   <item rdf:about="http://www.nature.com/doifinder/10.1038/507278a">
+      <title>Seven days: 14–20 March 2014</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/DNIJhqGLCXw/507278a</link>
+      <description>The week in science: GM crop contamination; Swiss grants crisis; and Asian carp invasions.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Seven days: 14–20 March 2014</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://www.nature.com/doifinder/10.1038/507278a">http://www.nature.com/doifinder/10.1038/507278a</a>
+         </p>
+         <p>The week in science: GM crop contamination; Swiss grants crisis; and Asian carp invasions.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/DNIJhqGLCXw" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Seven days: 14–20 March 2014</dc:title>
+      <dc:identifier>doi:10.1038/507278a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507278a</prism:doi>
+      <prism:url>http://www.nature.com/doifinder/10.1038/507278a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Seven Days</prism:section>
+      <prism:startingPage>278</prism:startingPage>
+      <prism:endingPage>279</prism:endingPage>
+   <feedburner:origLink>http://www.nature.com/doifinder/10.1038/507278a</feedburner:origLink></item>
+   <item rdf:about="http://www.nature.com/doifinder/10.1038/507281a">
+      <title>Telescope captures view of gravitational waves</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/1NjuMCMOvWg/507281a</link>
+      <description>Images of the infant Universe reveal evidence for rapid inflation after the Big Bang.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Telescope captures view of gravitational waves</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://www.nature.com/doifinder/10.1038/507281a">http://www.nature.com/doifinder/10.1038/507281a</a>
+         </p>
+         <p>Author: Ron Cowen</p>
+         <p>Images of the infant Universe reveal evidence for rapid inflation after the Big Bang.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/1NjuMCMOvWg" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Telescope captures view of gravitational waves</dc:title>
+      <dc:creator>Ron Cowen</dc:creator>
+      <dc:identifier>doi:10.1038/507281a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-17</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-17</prism:publicationDate>
+      <prism:doi>10.1038/507281a</prism:doi>
+      <prism:url>http://www.nature.com/doifinder/10.1038/507281a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>News</prism:section>
+      <prism:startingPage>281</prism:startingPage>
+      <prism:endingPage>283</prism:endingPage>
+   <feedburner:origLink>http://www.nature.com/doifinder/10.1038/507281a</feedburner:origLink></item>
+   <item rdf:about="http://www.nature.com/doifinder/10.1038/507283a">
+      <title>Stem-cell method faces fresh questions</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/RzZVuyJ2ffs/507283a</link>
+      <description>Papers describing acid-bath technique under more scrutiny after institute’s investigation finds errors in methodology.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Stem-cell method faces fresh questions</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://www.nature.com/doifinder/10.1038/507283a">http://www.nature.com/doifinder/10.1038/507283a</a>
+         </p>
+         <p>Author: David Cyranoski</p>
+         <p>Papers describing acid-bath technique under more scrutiny after institute’s investigation finds errors in methodology.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/RzZVuyJ2ffs" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Stem-cell method faces fresh questions</dc:title>
+      <dc:creator>David Cyranoski</dc:creator>
+      <dc:identifier>doi:10.1038/507283a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-18</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-18</prism:publicationDate>
+      <prism:doi>10.1038/507283a</prism:doi>
+      <prism:url>http://www.nature.com/doifinder/10.1038/507283a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>News</prism:section>
+      <prism:startingPage>283</prism:startingPage>
+      <prism:endingPage>283</prism:endingPage>
+   <feedburner:origLink>http://www.nature.com/doifinder/10.1038/507283a</feedburner:origLink></item>
+   <item rdf:about="http://www.nature.com/doifinder/10.1038/507285a">
+      <title>Incoming NSF director faces challenges in Congress</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/S8IR6_PzyF8/507285a</link>
+      <description>Former Purdue University president France Córdova inherits an agency at a crossroads.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Incoming NSF director faces challenges in Congress</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://www.nature.com/doifinder/10.1038/507285a">http://www.nature.com/doifinder/10.1038/507285a</a>
+         </p>
+         <p>Author: Jessica Morrison</p>
+         <p>Former Purdue University president France Córdova inherits an agency at a crossroads.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/S8IR6_PzyF8" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Incoming NSF director faces challenges in Congress</dc:title>
+      <dc:creator>Jessica Morrison</dc:creator>
+      <dc:identifier>doi:10.1038/507285a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-18</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-18</prism:publicationDate>
+      <prism:doi>10.1038/507285a</prism:doi>
+      <prism:url>http://www.nature.com/doifinder/10.1038/507285a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>News</prism:section>
+      <prism:startingPage>285</prism:startingPage>
+      <prism:endingPage>285</prism:endingPage>
+   <feedburner:origLink>http://www.nature.com/doifinder/10.1038/507285a</feedburner:origLink></item>
+   <item rdf:about="http://www.nature.com/doifinder/10.1038/507286a">
+      <title>Water returns to arid Colorado River delta</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/q0co0D1qqGU/507286a</link>
+      <description>US–Mexico agreement paves the way for a rare environmental test.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Water returns to arid Colorado River delta</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://www.nature.com/doifinder/10.1038/507286a">http://www.nature.com/doifinder/10.1038/507286a</a>
+         </p>
+         <p>Author: Alexandra Witze</p>
+         <p>US–Mexico agreement paves the way for a rare environmental test.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/q0co0D1qqGU" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Water returns to arid Colorado River delta</dc:title>
+      <dc:creator>Alexandra Witze</dc:creator>
+      <dc:identifier>doi:10.1038/507286a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-18</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-18</prism:publicationDate>
+      <prism:doi>10.1038/507286a</prism:doi>
+      <prism:url>http://www.nature.com/doifinder/10.1038/507286a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>News</prism:section>
+      <prism:startingPage>286</prism:startingPage>
+      <prism:endingPage>287</prism:endingPage>
+   <feedburner:origLink>http://www.nature.com/doifinder/10.1038/507286a</feedburner:origLink></item>
+   <item rdf:about="http://www.nature.com/doifinder/10.1038/507288a">
+      <title>NIH rethinks psychiatry trials</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/OejiV-2B2lA/507288a</link>
+      <description>Mental-health division will no longer fund research aiming to relieve symptoms without probing underlying causes.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>NIH rethinks psychiatry trials</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://www.nature.com/doifinder/10.1038/507288a">http://www.nature.com/doifinder/10.1038/507288a</a>
+         </p>
+         <p>Author: Sara Reardon</p>
+         <p>Mental-health division will no longer fund research aiming to relieve symptoms without probing underlying causes.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/OejiV-2B2lA" height="1" width="1"/>]]></content:encoded>
+      <dc:title>NIH rethinks psychiatry trials</dc:title>
+      <dc:creator>Sara Reardon</dc:creator>
+      <dc:identifier>doi:10.1038/507288a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-14</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-14</prism:publicationDate>
+      <prism:doi>10.1038/507288a</prism:doi>
+      <prism:url>http://www.nature.com/doifinder/10.1038/507288a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>News</prism:section>
+      <prism:startingPage>288</prism:startingPage>
+      <prism:endingPage>288</prism:endingPage>
+   <feedburner:origLink>http://www.nature.com/doifinder/10.1038/507288a</feedburner:origLink></item>
+   <item rdf:about="http://www.nature.com/doifinder/10.1038/507290a">
+      <title>Neuroscience: Tuning the brain</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/acUmz3Bz9SQ/507290a</link>
+      <description>Deep brain stimulation has shown promise in treating conditions such as Parkinson's disease. Now scientists are using the technology to eavesdrop on problem neural circuits.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Neuroscience: Tuning the brain</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://www.nature.com/doifinder/10.1038/507290a">http://www.nature.com/doifinder/10.1038/507290a</a>
+         </p>
+         <p>Author: Helen Shen</p>
+         <p>Deep brain stimulation has shown promise in treating conditions such as Parkinson's disease. Now scientists are using the technology to eavesdrop on problem neural circuits.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/acUmz3Bz9SQ" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Neuroscience: Tuning the brain</dc:title>
+      <dc:creator>Helen Shen</dc:creator>
+      <dc:identifier>doi:10.1038/507290a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507290a</prism:doi>
+      <prism:url>http://www.nature.com/doifinder/10.1038/507290a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Feature</prism:section>
+      <prism:startingPage>290</prism:startingPage>
+      <prism:endingPage>292</prism:endingPage>
+   <feedburner:origLink>http://www.nature.com/doifinder/10.1038/507290a</feedburner:origLink></item>
+   <item rdf:about="http://www.nature.com/doifinder/10.1038/507294a">
+      <title>Technology: The $1,000 genome</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/JLglwnYcSH4/507294a</link>
+      <description>With a unique programme, the US government has managed to drive the cost of genome sequencing down towards a much-anticipated target.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Technology: The $1,000 genome</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://www.nature.com/doifinder/10.1038/507294a">http://www.nature.com/doifinder/10.1038/507294a</a>
+         </p>
+         <p>Author: Erika Check Hayden</p>
+         <p>With a unique programme, the US government has managed to drive the cost of genome sequencing down towards a much-anticipated target.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/JLglwnYcSH4" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Technology: The $1,000 genome</dc:title>
+      <dc:creator>Erika Check Hayden</dc:creator>
+      <dc:identifier>doi:10.1038/507294a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507294a</prism:doi>
+      <prism:url>http://www.nature.com/doifinder/10.1038/507294a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Feature</prism:section>
+      <prism:startingPage>294</prism:startingPage>
+      <prism:endingPage>295</prism:endingPage>
+   <feedburner:origLink>http://www.nature.com/doifinder/10.1038/507294a</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507297a">
+      <title>Technology transfer: Industry-funded academic inventions boost innovation</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/yJS9m_tvcNg/507297a</link>
+      <description>Brian D. Wright and colleagues present data challenging the assumption that corporate-funded academic research is less accessible and useful to others.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Technology transfer: Industry-funded academic inventions boost innovation</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507297a">doi:10.1038/507297a</a>
+         </p>
+         <p>Authors: Brian D. Wright, Kyriakos Drivas, Zhen Lei &amp; Stephen A. Merrill</p>
+         <p>Brian D. Wright and colleagues present data challenging the assumption that corporate-funded academic research is less accessible and useful to others.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/yJS9m_tvcNg" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Technology transfer: Industry-funded academic inventions boost innovation</dc:title>
+      <dc:creator>Brian D. Wright</dc:creator>
+      <dc:creator>Kyriakos Drivas</dc:creator>
+      <dc:creator>Zhen Lei</dc:creator>
+      <dc:creator>Stephen A. Merrill</dc:creator>
+      <dc:identifier>doi:10.1038/507297a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:doi>10.1038/507297a</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507297a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Comment</prism:section>
+      <prism:startingPage>297</prism:startingPage>
+      <prism:endingPage>299</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507297a</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507300a">
+      <title>Renewable energy: Back the renewables boom</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/dlKlglvm57Y/507300a</link>
+      <description>Low-carbon technologies are getting better and cheaper each year, but continued public-policy support is needed to sustain progress, says Jessika E. Trancik.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Renewable energy: Back the renewables boom</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507300a">doi:10.1038/507300a</a>
+         </p>
+         <p>Author: Jessika E. Trancik</p>
+         <p>Low-carbon technologies are getting better and cheaper each year, but continued public-policy support is needed to sustain progress, says Jessika E. Trancik.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/dlKlglvm57Y" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Renewable energy: Back the renewables boom</dc:title>
+      <dc:creator>Jessika E. Trancik</dc:creator>
+      <dc:identifier>doi:10.1038/507300a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:doi>10.1038/507300a</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507300a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Comment</prism:section>
+      <prism:startingPage>300</prism:startingPage>
+      <prism:endingPage>302</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507300a</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507303a">
+      <title>Human evolution: Just add water</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/iI3lycbK1pc/507303a</link>
+      <description>Richard G. Roberts is intrigued by the idea that early humans gained an edge by 'hunting' for lakes and rivers.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Human evolution: Just add water</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507303a">doi:10.1038/507303a</a>
+         </p>
+         <p>Author: Richard G. Roberts</p>
+         <p>Richard G. Roberts is intrigued by the idea that early humans gained an edge by 'hunting' for lakes and rivers.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/iI3lycbK1pc" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Human evolution: Just add water</dc:title>
+      <dc:creator>Richard G. Roberts</dc:creator>
+      <dc:identifier>doi:10.1038/507303a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507303a</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507303a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Books and Arts</prism:section>
+      <prism:startingPage>303</prism:startingPage>
+      <prism:endingPage>304</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507303a</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507304a">
+      <title>Infographics: Truth is beauty</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/3gE_wnf9gPs/507304a</link>
+      <description>Daniel Cressey views the British Library's first science exhibition — a celebration of scientific illustration.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Infographics: Truth is beauty</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507304a">doi:10.1038/507304a</a>
+         </p>
+         <p>Author: Daniel Cressey</p>
+         <p>Daniel Cressey views the British Library's first science exhibition &#8212; a celebration of scientific illustration.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/3gE_wnf9gPs" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Infographics: Truth is beauty</dc:title>
+      <dc:creator>Daniel Cressey</dc:creator>
+      <dc:identifier>doi:10.1038/507304a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507304a</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507304a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Books and Arts</prism:section>
+      <prism:startingPage>304</prism:startingPage>
+      <prism:endingPage>305</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507304a</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507305a">
+      <title>Books in brief</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/lNDVvIq_G0Y/507305a</link>
+      <description>Marine Protected Areas, or MPAs — ocean zones limiting human activity — cover little more than 2% of the world's oceans, despite an internationally agreed target of 10% by 2020. And thousands of those that do exist are little more than 'paper parks', many scientists </description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Books in brief</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507305a">doi:10.1038/507305a</a>
+         </p>
+         <p>Author: Barbara Kiser</p>
+         <p>Marine Protected Areas, or MPAs &#8212; ocean zones limiting human activity &#8212; cover little more than 2&#37; of the world's oceans, despite an internationally agreed target of 10&#37; by 2020. And thousands of those that do exist are little more than 'paper parks', many scientists </p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/lNDVvIq_G0Y" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Books in brief</dc:title>
+      <dc:creator>Barbara Kiser</dc:creator>
+      <dc:identifier>doi:10.1038/507305a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507305a</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507305a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Books and Arts</prism:section>
+      <prism:startingPage>305</prism:startingPage>
+      <prism:endingPage>305</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507305a</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507306a">
+      <title>Medicine: Adapt current tools for handling big data</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/hhVpO2K2MnQ/507306a</link>
+      <description>To speed up discoveries of disease biomarkers and treatments, we must work out a cheaper and faster way to process, store and use the huge medical data sets that are rapidly becoming available (see, for example, Nature506, 144–145; 201410.1038/506144a</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Medicine: Adapt current tools for handling big data</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507306a">doi:10.1038/507306a</a>
+         </p>
+         <p>Author: Ervin Sejdi&#263;</p>
+         <p>To speed up discoveries of disease biomarkers and treatments, we must work out a cheaper and faster way to process, store and use the huge medical data sets that are rapidly becoming available (see, for example, Nature506, 144&#8211;145; 201410.1038/506144a</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/hhVpO2K2MnQ" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Medicine: Adapt current tools for handling big data</dc:title>
+      <dc:creator>Ervin Sejdić</dc:creator>
+      <dc:identifier>doi:10.1038/507306a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507306a</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507306a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Correspondence</prism:section>
+      <prism:startingPage>306</prism:startingPage>
+      <prism:endingPage>306</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507306a</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507306b">
+      <title>Young scientists: Portugal's research funding is secure</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/9GHd_Cqa-0U/507306b</link>
+      <description>As president of the Portuguese Foundation for Science and Technology (FCT), I disagree with André Levy's overly pessimistic view of prospects for young scientists in the country (Nature506, 159; 201410.1038/506159d).The cuts in PhD studentships and postdoctoral fellowships that </description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Young scientists: Portugal's research funding is secure</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507306b">doi:10.1038/507306b</a>
+         </p>
+         <p>Author: Miguel Seabra</p>
+         <p>As president of the Portuguese Foundation for Science and Technology (FCT), I disagree with Andr&#233; Levy's overly pessimistic view of prospects for young scientists in the country (Nature506, 159; 201410.1038/506159d).The cuts in PhD studentships and postdoctoral fellowships that </p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/9GHd_Cqa-0U" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Young scientists: Portugal's research funding is secure</dc:title>
+      <dc:creator>Miguel Seabra</dc:creator>
+      <dc:identifier>doi:10.1038/507306b</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507306b</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507306b</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Correspondence</prism:section>
+      <prism:startingPage>306</prism:startingPage>
+      <prism:endingPage>306</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507306b</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507306c">
+      <title>Ecosystem services: Forests are more than sticks of carbon</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/ZFZj_9P6ogM/507306c</link>
+      <description>Valentin Bellassen and Sebastiaan Luyssaert suggest that forest managers should improve both carbon stocks and timber harvests to mitigate climate change (Nature506, 153–155; 201410.1038/506153a). But forests are more than just sticks of carbon.Maximizing harvests may be </description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Ecosystem services: Forests are more than sticks of carbon</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507306c">doi:10.1038/507306c</a>
+         </p>
+         <p>Authors: Aerin L. Jacob, Sarah Jane Wilson &amp; Simon L. Lewis</p>
+         <p>Valentin Bellassen and Sebastiaan Luyssaert suggest that forest managers should improve both carbon stocks and timber harvests to mitigate climate change (Nature506, 153&#8211;155; 201410.1038/506153a). But forests are more than just sticks of carbon.Maximizing harvests may be </p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/ZFZj_9P6ogM" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Ecosystem services: Forests are more than sticks of carbon</dc:title>
+      <dc:creator>Aerin L. Jacob</dc:creator>
+      <dc:creator>Sarah Jane Wilson</dc:creator>
+      <dc:creator>Simon L. Lewis</dc:creator>
+      <dc:identifier>doi:10.1038/507306c</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507306c</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507306c</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Correspondence</prism:section>
+      <prism:startingPage>306</prism:startingPage>
+      <prism:endingPage>306</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507306c</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507306d">
+      <title>NIH grants: Focus on questions, not hypotheses</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/tpIJvXyJ8Gg/507306d</link>
+      <description>I contend that the insistence of the US National Institutes of Health (NIH) on hypothesis-driven projects in grant proposals could be a factor contributing to irreproducible research reports (see F. S.Collins and L. A.TabakNature505, 612–613; 2014</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>NIH grants: Focus on questions, not hypotheses</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507306d">doi:10.1038/507306d</a>
+         </p>
+         <p>Author: David J. Glass</p>
+         <p>I contend that the insistence of the US National Institutes of Health (NIH) on hypothesis-driven projects in grant proposals could be a factor contributing to irreproducible research reports (see F. S.Collins and L. A.TabakNature505, 612&#8211;613; 2014</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/tpIJvXyJ8Gg" height="1" width="1"/>]]></content:encoded>
+      <dc:title>NIH grants: Focus on questions, not hypotheses</dc:title>
+      <dc:creator>David J. Glass</dc:creator>
+      <dc:identifier>doi:10.1038/507306d</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507306d</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507306d</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Correspondence</prism:section>
+      <prism:startingPage>306</prism:startingPage>
+      <prism:endingPage>306</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507306d</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507306e">
+      <title>Criminology: Update forensics for deaths in Japan</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/mv-1MBny2-s/507306e</link>
+      <description>Autopsies in Japan are performed on only 1.6% of all deaths, the lowest rate among developed countries. Cause of death is almost always determined by simple visual inspection, as it was 100 years ago. Japanese forensic medicine needs to catch up to avoid murders being </description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Criminology: Update forensics for deaths in Japan</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507306e">doi:10.1038/507306e</a>
+         </p>
+         <p>Author: Hiroshi Ikegaya</p>
+         <p>Autopsies in Japan are performed on only 1.6&#37; of all deaths, the lowest rate among developed countries. Cause of death is almost always determined by simple visual inspection, as it was 100 years ago. Japanese forensic medicine needs to catch up to avoid murders being </p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/mv-1MBny2-s" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Criminology: Update forensics for deaths in Japan</dc:title>
+      <dc:creator>Hiroshi Ikegaya</dc:creator>
+      <dc:identifier>doi:10.1038/507306e</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507306e</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507306e</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Correspondence</prism:section>
+      <prism:startingPage>306</prism:startingPage>
+      <prism:endingPage>306</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507306e</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nj7492-389a">
+      <title>Retractions: A clean slate</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/LTGi7PTTOrw/nj7492-389a</link>
+      <description>Mistakes are part of science. But setting the record straight promptly and clearly can help to avoid a career blot.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Retractions: A clean slate</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nj7492-389a">doi:10.1038/nj7492-389a</a>
+         </p>
+         <p>Author: Virginia Gewin</p>
+         <p>Mistakes are part of science. But setting the record straight promptly and clearly can help to avoid a career blot.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/LTGi7PTTOrw" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Retractions: A clean slate</dc:title>
+      <dc:creator>Virginia Gewin</dc:creator>
+      <dc:identifier>doi:10.1038/nj7492-389a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/nj7492-389a</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nj7492-389a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Naturejobs</prism:section>
+      <prism:startingPage>389</prism:startingPage>
+      <prism:endingPage>391</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nj7492-389a</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nj7492-391a">
+      <title>Strapped students</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/VDm-QF9N_OY/nj7492-391a</link>
+      <description>Graduate students face myriad financial challenges — some more obvious than others, says Susie Crowe.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Strapped students</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nj7492-391a">doi:10.1038/nj7492-391a</a>
+         </p>
+         <p>Author: Susie Crowe</p>
+         <p>Graduate students face myriad financial challenges &#8212; some more obvious than others, says Susie Crowe.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/VDm-QF9N_OY" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Strapped students</dc:title>
+      <dc:creator>Susie Crowe</dc:creator>
+      <dc:identifier>doi:10.1038/nj7492-391a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/nj7492-391a</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nj7492-391a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Naturejobs</prism:section>
+      <prism:startingPage>391</prism:startingPage>
+      <prism:endingPage>391</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nj7492-391a</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507394a">
+      <title>Market forces</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/pMrDqB8bbLs/507394a</link>
+      <description>Paradise revamped.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Market forces</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507394a">doi:10.1038/507394a</a>
+         </p>
+         <p>Author: Ian Stewart</p>
+         <p>Paradise revamped.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/pMrDqB8bbLs" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Market forces</dc:title>
+      <dc:creator>Ian Stewart</dc:creator>
+      <dc:identifier>doi:10.1038/507394a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507394a</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507394a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Futures</prism:section>
+      <prism:startingPage>394</prism:startingPage>
+      <prism:endingPage>394</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507394a</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507308a">
+      <title>Space science: Near-Earth space shows its stripes</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/kDWRZHl4Z2I/507308a</link>
+      <description>Electrons in Earth's magnetic field often exhibit a striped pattern of intensity as a function of electron energy and altitude. A model that factors in some unexpectedly important effects can now explain this feature. See Letter p.338</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Space science: Near-Earth space shows its stripes</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507308a">doi:10.1038/507308a</a>
+         </p>
+         <p>Authors: Drew L. Turner</p>
+         <p>Electrons in Earth's magnetic field often exhibit a striped pattern of intensity as a function of electron energy and altitude. A model that factors in some unexpectedly important effects can now explain this feature. See Letter p.338</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/kDWRZHl4Z2I" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Space science: Near-Earth space shows its stripes</dc:title>
+      <dc:creator>Drew L. Turner</dc:creator>
+      <dc:identifier>doi:10.1038/507308a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507308a</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507308a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>News &amp; Views</prism:section>
+      <prism:startingPage>308</prism:startingPage>
+      <prism:endingPage>309</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507308a</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nature13212">
+      <title>Genetics: Closing the distance on obesity culprits</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/wqQpqvDlxAg/nature13212</link>
+      <description>Genetic variation in a non-protein-coding region of the gene FTO is implicated in obesity. A study finds evidence that, rather than affecting FTO itself, variations in this region influence expression of a distant gene, IRX3. See Letter p.371</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Genetics: Closing the distance on obesity culprits</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nature13212">doi:10.1038/nature13212</a>
+         </p>
+         <p>Authors: David U. Gorkin &amp; Bing Ren</p>
+         <p>Genetic variation in a non-protein-coding region of the gene FTO is implicated in obesity. A study finds evidence that, rather than affecting FTO itself, variations in this region influence expression of a distant gene, IRX3. See Letter p.371</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/wqQpqvDlxAg" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Genetics: Closing the distance on obesity culprits</dc:title>
+      <dc:creator>David U. Gorkin</dc:creator>
+      <dc:creator>Bing Ren</dc:creator>
+      <dc:identifier>doi:10.1038/nature13212</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-12</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-12</prism:publicationDate>
+      <prism:doi>10.1038/nature13212</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nature13212</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>News &amp; Views</prism:section>
+      <prism:startingPage>309</prism:startingPage>
+      <prism:endingPage>310</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nature13212</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507310a">
+      <title>Technology: Photonics illuminates the future of radar</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/dwHZSS_PC4E/507310a</link>
+      <description>The first implementation of a fully photonics-based coherent radar system shows how photonic methods for radio-frequency signal generation and measurement may facilitate the development of software-defined radar systems. See Letter p.341</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Technology: Photonics illuminates the future of radar</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507310a">doi:10.1038/507310a</a>
+         </p>
+         <p>Authors: Jason D. McKinney</p>
+         <p>The first implementation of a fully photonics-based coherent radar system shows how photonic methods for radio-frequency signal generation and measurement may facilitate the development of software-defined radar systems. See Letter p.341</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/dwHZSS_PC4E" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Technology: Photonics illuminates the future of radar</dc:title>
+      <dc:creator>Jason D. McKinney</dc:creator>
+      <dc:identifier>doi:10.1038/507310a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507310a</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507310a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>News &amp; Views</prism:section>
+      <prism:startingPage>310</prism:startingPage>
+      <prism:endingPage>312</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507310a</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nature13213">
+      <title>Cell biology: The disassembly of death</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/EOdhQKjD0W0/nature13213</link>
+      <description>During the cell-death program known as apoptosis, cells break up into membrane-bound fragments. It emerges that this process is controlled by the protein pannexin 1 and can be deregulated by an antibiotic. See Article p.329</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Cell biology: The disassembly of death</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nature13213">doi:10.1038/nature13213</a>
+         </p>
+         <p>Authors: Christopher D. Gregory</p>
+         <p>During the cell-death program known as apoptosis, cells break up into membrane-bound fragments. It emerges that this process is controlled by the protein pannexin 1 and can be deregulated by an antibiotic. See Article p.329</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/EOdhQKjD0W0" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Cell biology: The disassembly of death</dc:title>
+      <dc:creator>Christopher D. Gregory</dc:creator>
+      <dc:identifier>doi:10.1038/nature13213</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-12</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-12</prism:publicationDate>
+      <prism:doi>10.1038/nature13213</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nature13213</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>News &amp; Views</prism:section>
+      <prism:startingPage>312</prism:startingPage>
+      <prism:endingPage>313</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nature13213</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/507313a">
+      <title>50 &amp; 100 Years Ago</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/uYfS9vbGjjo/507313a</link>
+      <description>50 Years AgoThe Agar Precipitation Technique and Its Application as a Diagnostic and Analytical Method by F. Peetoom — Nomenclature is not discussed critically, and the style is diffuse and difficult to read. A translation which makes no better attempt at English style </description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>50 &amp; 100 Years Ago</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/507313a">doi:10.1038/507313a</a>
+         </p>
+         <p>50 Years AgoThe Agar Precipitation Technique and Its Application as a Diagnostic and Analytical Method by F. Peetoom &#8212; Nomenclature is not discussed critically, and the style is diffuse and difficult to read. A translation which makes no better attempt at English style </p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/uYfS9vbGjjo" height="1" width="1"/>]]></content:encoded>
+      <dc:title>50 &amp; 100 Years Ago</dc:title>
+      <dc:identifier>doi:10.1038/507313a</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/507313a</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/507313a</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>News &amp; Views</prism:section>
+      <prism:startingPage>313</prism:startingPage>
+      <prism:endingPage>313</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/507313a</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nature13210">
+      <title>Bone biology: Vessels of rejuvenation</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/OLOA8YV6ZQE/nature13210</link>
+      <description>The identification of specialized endothelial-cell populations in the blood vessels of bones, and their signalling pathways, reveals how the vasculature contributes to bone formation. See Article p.323 &amp; Letter p.376</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Bone biology: Vessels of rejuvenation</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nature13210">doi:10.1038/nature13210</a>
+         </p>
+         <p>Authors: Ferdinand le Noble &amp; Jos le Noble</p>
+         <p>The identification of specialized endothelial-cell populations in the blood vessels of bones, and their signalling pathways, reveals how the vasculature contributes to bone formation. See Article p.323 &amp; Letter p.376</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/OLOA8YV6ZQE" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Bone biology: Vessels of rejuvenation</dc:title>
+      <dc:creator>Ferdinand le Noble</dc:creator>
+      <dc:creator>Jos le Noble</dc:creator>
+      <dc:identifier>doi:10.1038/nature13210</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-12</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-12</prism:publicationDate>
+      <prism:doi>10.1038/nature13210</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nature13210</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>News &amp; Views</prism:section>
+      <prism:startingPage>313</prism:startingPage>
+      <prism:endingPage>314</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nature13210</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nature12965">
+      <title>Comprehensive molecular characterization of urothelial bladder carcinoma</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/htKIyyayc2I/nature12965</link>
+      <description>Urothelial carcinoma of the bladder is a common malignancy that causes approximately 150,000 deaths per year worldwide. So far, no molecularly targeted agents have been approved for treatment of the disease. As part of The Cancer Genome Atlas project, we report here an integrated analysis </description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Comprehensive molecular characterization of urothelial bladder carcinoma</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nature12965">doi:10.1038/nature12965</a>
+         </p>
+         <p>Authors: </p>
+         <p>Urothelial carcinoma of the bladder is a common malignancy that causes approximately 150,000 deaths per year worldwide. So far, no molecularly targeted agents have been approved for treatment of the disease. As part of The Cancer Genome Atlas project, we report here an integrated analysis </p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/htKIyyayc2I" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Comprehensive molecular characterization of urothelial bladder carcinoma</dc:title>
+      <dc:identifier>doi:10.1038/nature12965</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-01-29</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-01-29</prism:publicationDate>
+      <prism:doi>10.1038/nature12965</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nature12965</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Article</prism:section>
+      <prism:startingPage>315</prism:startingPage>
+      <prism:endingPage>322</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nature12965</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nature13145">
+      <title>Coupling of angiogenesis and osteogenesis by a specific vessel subtype in bone</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/PkIxvcSnV68/nature13145</link>
+      <description>The mammalian skeletal system harbours a hierarchical system of mesenchymal stem cells, osteoprogenitors and osteoblasts sustaining lifelong bone formation. Osteogenesis is indispensable for the homeostatic renewal of bone as well as regenerative fracture healing, but these processes frequently decline in ageing organisms, leading to loss </description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Coupling of angiogenesis and osteogenesis by a specific vessel subtype in bone</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nature13145">doi:10.1038/nature13145</a>
+         </p>
+         <p>Authors: Anjali P. Kusumbe, Saravana K. Ramasamy &amp; Ralf H. Adams</p>
+         <p>The mammalian skeletal system harbours a hierarchical system of mesenchymal stem cells, osteoprogenitors and osteoblasts sustaining lifelong bone formation. Osteogenesis is indispensable for the homeostatic renewal of bone as well as regenerative fracture healing, but these processes frequently decline in ageing organisms, leading to loss </p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/PkIxvcSnV68" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Coupling of angiogenesis and osteogenesis by a specific vessel subtype in bone</dc:title>
+      <dc:creator>Anjali P. Kusumbe</dc:creator>
+      <dc:creator>Saravana K. Ramasamy</dc:creator>
+      <dc:creator>Ralf H. Adams</dc:creator>
+      <dc:identifier>doi:10.1038/nature13145</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-12</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-12</prism:publicationDate>
+      <prism:doi>10.1038/nature13145</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nature13145</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Article</prism:section>
+      <prism:startingPage>323</prism:startingPage>
+      <prism:endingPage>328</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nature13145</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nature13147">
+      <title>Unexpected link between an antibiotic, pannexin channels and apoptosis</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/nP51mNHJ4xY/nature13147</link>
+      <description>Plasma membrane pannexin 1 channels (PANX1) release nucleotide find-me signals from apoptotic cells to attract phagocytes. Here we show that the quinolone antibiotic trovafloxacin is a novel PANX1 inhibitor, by using a small-molecule screen. Although quinolones are widely used to treat bacterial infections, some quinolones </description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Unexpected link between an antibiotic, pannexin channels and apoptosis</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nature13147">doi:10.1038/nature13147</a>
+         </p>
+         <p>Authors: Ivan K. H. Poon, Yu-Hsin Chiu, Allison J. Armstrong, Jason M. Kinchen, Ignacio J. Juncadella, Douglas A. Bayliss &amp; Kodi S. Ravichandran</p>
+         <p>Plasma membrane pannexin 1 channels (PANX1) release nucleotide find-me signals from apoptotic cells to attract phagocytes. Here we show that the quinolone antibiotic trovafloxacin is a novel PANX1 inhibitor, by using a small-molecule screen. Although quinolones are widely used to treat bacterial infections, some quinolones </p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/nP51mNHJ4xY" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Unexpected link between an antibiotic, pannexin channels and apoptosis</dc:title>
+      <dc:creator>Ivan K. H. Poon</dc:creator>
+      <dc:creator>Yu-Hsin Chiu</dc:creator>
+      <dc:creator>Allison J. Armstrong</dc:creator>
+      <dc:creator>Jason M. Kinchen</dc:creator>
+      <dc:creator>Ignacio J. Juncadella</dc:creator>
+      <dc:creator>Douglas A. Bayliss</dc:creator>
+      <dc:creator>Kodi S. Ravichandran</dc:creator>
+      <dc:identifier>doi:10.1038/nature13147</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-12</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-12</prism:publicationDate>
+      <prism:doi>10.1038/nature13147</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nature13147</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Article</prism:section>
+      <prism:startingPage>329</prism:startingPage>
+      <prism:endingPage>334</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nature13147</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nature12995">
+      <title>The remnant of a merger between two dwarf galaxies in Andromeda II</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/_ym34OhzAFs/nature12995</link>
+      <description>Driven by gravity, massive structures like galaxies and clusters of galaxies are believed to grow continuously through hierarchical merging and accretion of smaller systems. Observational evidence of accretion events is provided by the coherent stellar streams crossing the outer haloes of massive galaxies, such as the Milky Way or Andromeda. At similar mass scales, around 1011 solar masses in stars, further evidence of merging activity is also ample. Mergers of lower-mass galaxies are expected within the hierarchical process of galaxy formation, but have hitherto not been seen for galaxies with less than about 109 solar masses in stars. Here we report the kinematic detection of a stellar stream in one of the satellite galaxies of Andromeda, the dwarf spheroidal Andromeda II, which has a mass of only 107 solar masses in stars. The properties of the stream show that we are observing the remnant of a merger between two dwarf galaxies. This had a drastic influence on the dynamics of the remnant, which is now rotating around its projected major axis. The stellar stream in Andromeda II illustrates the scale-free character of the formation of galaxies, down to the lowest galactic mass scales.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>The remnant of a merger between two dwarf galaxies in Andromeda&#8201;II</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nature12995">doi:10.1038/nature12995</a>
+         </p>
+         <p>Authors: N. C. Amorisco, N. W. Evans &amp; G. van de Ven</p>
+         <p>Driven by gravity, massive structures like galaxies and clusters of galaxies are believed to grow continuously through hierarchical merging and accretion of smaller systems. Observational evidence of accretion events is provided by the coherent stellar streams crossing the outer haloes of massive galaxies, such as the Milky Way or Andromeda. At similar mass scales, around 1011 solar masses in stars, further evidence of merging activity is also ample. Mergers of lower-mass galaxies are expected within the hierarchical process of galaxy formation, but have hitherto not been seen for galaxies with less than about 109 solar masses in stars. Here we report the kinematic detection of a stellar stream in one of the satellite galaxies of Andromeda, the dwarf spheroidal Andromeda&#8201;II, which has a mass of only 107 solar masses in stars. The properties of the stream show that we are observing the remnant of a merger between two dwarf galaxies. This had a drastic influence on the dynamics of the remnant, which is now rotating around its projected major axis. The stellar stream in Andromeda&#8201;II illustrates the scale-free character of the formation of galaxies, down to the lowest galactic mass scales.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/_ym34OhzAFs" height="1" width="1"/>]]></content:encoded>
+      <dc:title>The remnant of a merger between two dwarf galaxies in Andromeda II</dc:title>
+      <dc:creator>N. C. Amorisco</dc:creator>
+      <dc:creator>N. W. Evans</dc:creator>
+      <dc:creator>G. van de Ven</dc:creator>
+      <dc:identifier>doi:10.1038/nature12995</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-02-23</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-02-23</prism:publicationDate>
+      <prism:doi>10.1038/nature12995</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nature12995</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Letter</prism:section>
+      <prism:startingPage>335</prism:startingPage>
+      <prism:endingPage>337</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nature12995</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nature13046">
+      <title>Rotationally driven ‘zebra stripes’ in Earth’s inner radiation belt</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/jfzxF1X-TMI/nature13046</link>
+      <description>Structured features on top of nominally smooth distributions of radiation-belt particles at Earth have been previously associated with particle acceleration and transport mechanisms powered exclusively by enhanced solar-wind activity. Although planetary rotation is considered to be important for particle acceleration at Jupiter and Saturn, the electric field produced in the inner magnetosphere by Earth’s rotation can change the velocity of trapped particles by only about 1–2 kilometres per second, so rotation has been thought inconsequential for radiation-belt electrons with velocities of about 100,000 kilometres per second. Here we report that the distributions of energetic electrons across the entire spatial extent of Earth’s inner radiation belt are organized in regular, highly structured and unexpected ‘zebra stripes’, even when the solar-wind activity is low. Modelling reveals that the patterns are produced by Earth’s rotation. Radiation-belt electrons are trapped in Earth’s dipole-like magnetic field, where they undergo slow longitudinal drift motion around the planet because of the gradient and curvature of the magnetic field. Earth’s rotation induces global diurnal variations of magnetic and electric fields that resonantly interact with electrons whose drift period is close to 24 hours, modifying electron fluxes over a broad energy range into regular patterns composed of multiple stripes extending over the entire span of the inner radiation belt.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Rotationally driven &#8216;zebra stripes&#8217; in Earth&#8217;s inner radiation belt</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nature13046">doi:10.1038/nature13046</a>
+         </p>
+         <p>Authors: A. Y. Ukhorskiy, M. I. Sitnov, D. G. Mitchell, K. Takahashi, L. J. Lanzerotti &amp; B. H. Mauk</p>
+         <p>Structured features on top of nominally smooth distributions of radiation-belt particles at Earth have been previously associated with particle acceleration and transport mechanisms powered exclusively by enhanced solar-wind activity. Although planetary rotation is considered to be important for particle acceleration at Jupiter and Saturn, the electric field produced in the inner magnetosphere by Earth&#8217;s rotation can change the velocity of trapped particles by only about 1&#8211;2 kilometres per second, so rotation has been thought inconsequential for radiation-belt electrons with velocities of about 100,000 kilometres per second. Here we report that the distributions of energetic electrons across the entire spatial extent of Earth&#8217;s inner radiation belt are organized in regular, highly structured and unexpected &#8216;zebra stripes&#8217;, even when the solar-wind activity is low. Modelling reveals that the patterns are produced by Earth&#8217;s rotation. Radiation-belt electrons are trapped in Earth&#8217;s dipole-like magnetic field, where they undergo slow longitudinal drift motion around the planet because of the gradient and curvature of the magnetic field. Earth&#8217;s rotation induces global diurnal variations of magnetic and electric fields that resonantly interact with electrons whose drift period is close to 24 hours, modifying electron fluxes over a broad energy range into regular patterns composed of multiple stripes extending over the entire span of the inner radiation belt.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/jfzxF1X-TMI" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Rotationally driven ‘zebra stripes’ in Earth’s inner radiation belt</dc:title>
+      <dc:creator>A. Y. Ukhorskiy</dc:creator>
+      <dc:creator>M. I. Sitnov</dc:creator>
+      <dc:creator>D. G. Mitchell</dc:creator>
+      <dc:creator>K. Takahashi</dc:creator>
+      <dc:creator>L. J. Lanzerotti</dc:creator>
+      <dc:creator>B. H. Mauk</dc:creator>
+      <dc:identifier>doi:10.1038/nature13046</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/nature13046</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nature13046</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Letter</prism:section>
+      <prism:startingPage>338</prism:startingPage>
+      <prism:endingPage>340</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nature13046</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nature13078">
+      <title>A fully photonics-based coherent radar system</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/J8X-Yb-HuCc/nature13078</link>
+      <description>The next generation of radar (radio detection and ranging) systems needs to be based on software-defined radio to adapt to variable environments, with higher carrier frequencies for smaller antennas and broadened bandwidth for increased resolution. Today’s digital microwave components (synthesizers and analogue-to-digital converters) suffer from limited bandwidth with high noise at increasing frequencies, so that fully digital radar systems can work up to only a few gigahertz, and noisy analogue up- and downconversions are necessary for higher frequencies. In contrast, photonics provide high precision and ultrawide bandwidth, allowing both the flexible generation of extremely stable radio-frequency signals with arbitrary waveforms up to millimetre waves, and the detection of such signals and their precise direct digitization without downconversion. Until now, the photonics-based generation and detection of radio-frequency signals have been studied separately and have not been tested in a radar system. Here we present the development and the field trial results of a fully photonics-based coherent radar demonstrator carried out within the project PHODIR. The proposed architecture exploits a single pulsed laser for generating tunable radar signals and receiving their echoes, avoiding radio-frequency up- and downconversion and guaranteeing both the software-defined approach and high resolution. Its performance exceeds state-of-the-art electronics at carrier frequencies above two gigahertz, and the detection of non-cooperating aeroplanes confirms the effectiveness and expected precision of the system.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>A fully photonics-based coherent radar system</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nature13078">doi:10.1038/nature13078</a>
+         </p>
+         <p>Authors: Paolo Ghelfi, Francesco Laghezza, Filippo Scotti, Giovanni Serafino, Amerigo Capria, Sergio Pinna, Daniel Onori, Claudio Porzi, Mirco Scaffardi, Antonio Malacarne, Valeria Vercesi, Emma Lazzeri, Fabrizio Berizzi &amp; Antonella Bogoni</p>
+         <p>The next generation of radar (radio detection and ranging) systems needs to be based on software-defined radio to adapt to variable environments, with higher carrier frequencies for smaller antennas and broadened bandwidth for increased resolution. Today&#8217;s digital microwave components (synthesizers and analogue-to-digital converters) suffer from limited bandwidth with high noise at increasing frequencies, so that fully digital radar systems can work up to only a few gigahertz, and noisy analogue up- and downconversions are necessary for higher frequencies. In contrast, photonics provide high precision and ultrawide bandwidth, allowing both the flexible generation of extremely stable radio-frequency signals with arbitrary waveforms up to millimetre waves, and the detection of such signals and their precise direct digitization without downconversion. Until now, the photonics-based generation and detection of radio-frequency signals have been studied separately and have not been tested in a radar system. Here we present the development and the field trial results of a fully photonics-based coherent radar demonstrator carried out within the project PHODIR. The proposed architecture exploits a single pulsed laser for generating tunable radar signals and receiving their echoes, avoiding radio-frequency up- and downconversion and guaranteeing both the software-defined approach and high resolution. Its performance exceeds state-of-the-art electronics at carrier frequencies above two gigahertz, and the detection of non-cooperating aeroplanes confirms the effectiveness and expected precision of the system.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/J8X-Yb-HuCc" height="1" width="1"/>]]></content:encoded>
+      <dc:title>A fully photonics-based coherent radar system</dc:title>
+      <dc:creator>Paolo Ghelfi</dc:creator>
+      <dc:creator>Francesco Laghezza</dc:creator>
+      <dc:creator>Filippo Scotti</dc:creator>
+      <dc:creator>Giovanni Serafino</dc:creator>
+      <dc:creator>Amerigo Capria</dc:creator>
+      <dc:creator>Sergio Pinna</dc:creator>
+      <dc:creator>Daniel Onori</dc:creator>
+      <dc:creator>Claudio Porzi</dc:creator>
+      <dc:creator>Mirco Scaffardi</dc:creator>
+      <dc:creator>Antonio Malacarne</dc:creator>
+      <dc:creator>Valeria Vercesi</dc:creator>
+      <dc:creator>Emma Lazzeri</dc:creator>
+      <dc:creator>Fabrizio Berizzi</dc:creator>
+      <dc:creator>Antonella Bogoni</dc:creator>
+      <dc:identifier>doi:10.1038/nature13078</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/nature13078</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nature13078</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Letter</prism:section>
+      <prism:startingPage>341</prism:startingPage>
+      <prism:endingPage>345</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nature13078</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nature13030">
+      <title>Sulphide oxidation and carbonate dissolution as a source of CO2 over geological timescales</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/JSUqwmRmOvE/nature13030</link>
+      <description>The observed stability of Earth’s climate over millions of years is thought to depend on the rate of carbon dioxide (CO2) release from the solid Earth being balanced by the rate of CO2 consumption by silicate weathering. During the Cenozoic era, spanning approximately the past 66 million years, the concurrent increases in the marine isotopic ratios of strontium, osmium and lithium suggest that extensive uplift of mountain ranges may have stimulated CO2 consumption by silicate weathering, but reconstructions of sea-floor spreading do not indicate a corresponding increase in CO2 inputs from volcanic degassing. The resulting imbalance would have depleted the atmosphere of all CO2 within a few million years. As a result, reconciling Cenozoic isotopic records with the need for mass balance in the long-term carbon cycle has been a major and unresolved challenge in geochemistry and Earth history. Here we show that enhanced sulphide oxidation coupled to carbonate dissolution can provide a transient source of CO2 to Earth’s atmosphere that is relevant over geological timescales. Like drawdown by means of silicate weathering, this source is probably enhanced by tectonic uplift, and so may have contributed to the relative stability of the partial pressure of atmospheric CO2 during the Cenozoic. A variety of other hypotheses have been put forward to explain the ‘Cenozoic isotope-weathering paradox’, and the evolution of the carbon cycle probably depended on multiple processes. However, an important role for sulphide oxidation coupled to carbonate dissolution is consistent with records of radiogenic isotopes, atmospheric CO2 partial pressure and the evolution of the Cenozoic sulphur cycle, and could be accounted for by geologically reasonable changes in the global dioxygen cycle, suggesting that this CO2 source should be considered a potentially important but as yet generally unrecognized component of the long-term carbon cycle.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Sulphide oxidation and carbonate dissolution as a source of CO2 over geological timescales</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nature13030">doi:10.1038/nature13030</a>
+         </p>
+         <p>Authors: Mark A. Torres, A. Joshua West &amp; Gaojun Li</p>
+         <p>The observed stability of Earth&#8217;s climate over millions of years is thought to depend on the rate of carbon dioxide (CO2) release from the solid Earth being balanced by the rate of CO2 consumption by silicate weathering. During the Cenozoic era, spanning approximately the past 66 million years, the concurrent increases in the marine isotopic ratios of strontium, osmium and lithium suggest that extensive uplift of mountain ranges may have stimulated CO2 consumption by silicate weathering, but reconstructions of sea-floor spreading do not indicate a corresponding increase in CO2 inputs from volcanic degassing. The resulting imbalance would have depleted the atmosphere of all CO2 within a few million years. As a result, reconciling Cenozoic isotopic records with the need for mass balance in the long-term carbon cycle has been a major and unresolved challenge in geochemistry and Earth history. Here we show that enhanced sulphide oxidation coupled to carbonate dissolution can provide a transient source of CO2 to Earth&#8217;s atmosphere that is relevant over geological timescales. Like drawdown by means of silicate weathering, this source is probably enhanced by tectonic uplift, and so may have contributed to the relative stability of the partial pressure of atmospheric CO2 during the Cenozoic. A variety of other hypotheses have been put forward to explain the &#8216;Cenozoic isotope-weathering paradox&#8217;, and the evolution of the carbon cycle probably depended on multiple processes. However, an important role for sulphide oxidation coupled to carbonate dissolution is consistent with records of radiogenic isotopes, atmospheric CO2 partial pressure and the evolution of the Cenozoic sulphur cycle, and could be accounted for by geologically reasonable changes in the global dioxygen cycle, suggesting that this CO2 source should be considered a potentially important but as yet generally unrecognized component of the long-term carbon cycle.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/JSUqwmRmOvE" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Sulphide oxidation and carbonate dissolution as a source of CO2 over geological timescales</dc:title>
+      <dc:creator>Mark A. Torres</dc:creator>
+      <dc:creator>A. Joshua West</dc:creator>
+      <dc:creator>Gaojun Li</dc:creator>
+      <dc:identifier>doi:10.1038/nature13030</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/nature13030</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nature13030</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Letter</prism:section>
+      <prism:startingPage>346</prism:startingPage>
+      <prism:endingPage>349</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nature13030</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nature12973">
+      <title>Melanosome evolution indicates a key physiological shift within feathered dinosaurs</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/ERDrj3220N8/nature12973</link>
+      <description>Inference of colour patterning in extinct dinosaurs has been based on the relationship between the morphology of melanin-containing organelles (melanosomes) and colour in extant bird feathers. When this relationship evolved relative to the origin of feathers and other novel integumentary structures, such as hair and filamentous body covering in extinct archosaurs, has not been evaluated. Here we sample melanosomes from the integument of 181 extant amniote taxa and 13 lizard, turtle, dinosaur and pterosaur fossils from the Upper-Jurassic and Lower-Cretaceous of China. We find that in the lineage leading to birds, the observed increase in the diversity of melanosome morphologies appears abruptly, near the origin of pinnate feathers in maniraptoran dinosaurs. Similarly, mammals show an increased diversity of melanosome form compared to all ectothermic amniotes. In these two clades, mammals and maniraptoran dinosaurs including birds, melanosome form and colour are linked and colour reconstruction may be possible. By contrast, melanosomes in lizard, turtle and crocodilian skin, as well as the archosaurian filamentous body coverings (dinosaur ‘protofeathers’ and pterosaur ‘pycnofibres’), show a limited diversity of form that is uncorrelated with colour in extant taxa. These patterns may be explained by convergent changes in the key melanocortin system of mammals and birds, which is known to affect pleiotropically both melanin-based colouration and energetic processes such as metabolic rate in vertebrates, and may therefore support a significant physiological shift in maniraptoran dinosaurs.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Melanosome evolution indicates a key physiological shift within feathered dinosaurs</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nature12973">doi:10.1038/nature12973</a>
+         </p>
+         <p>Authors: Quanguo Li, Julia A. Clarke, Ke-Qin Gao, Chang-Fu Zhou, Qingjin Meng, Daliang Li, Liliana D&#8217;Alba &amp; Matthew D. Shawkey</p>
+         <p>Inference of colour patterning in extinct dinosaurs has been based on the relationship between the morphology of melanin-containing organelles (melanosomes) and colour in extant bird feathers. When this relationship evolved relative to the origin of feathers and other novel integumentary structures, such as hair and filamentous body covering in extinct archosaurs, has not been evaluated. Here we sample melanosomes from the integument of 181 extant amniote taxa and 13 lizard, turtle, dinosaur and pterosaur fossils from the Upper-Jurassic and Lower-Cretaceous of China. We find that in the lineage leading to birds, the observed increase in the diversity of melanosome morphologies appears abruptly, near the origin of pinnate feathers in maniraptoran dinosaurs. Similarly, mammals show an increased diversity of melanosome form compared to all ectothermic amniotes. In these two clades, mammals and maniraptoran dinosaurs including birds, melanosome form and colour are linked and colour reconstruction may be possible. By contrast, melanosomes in lizard, turtle and crocodilian skin, as well as the archosaurian filamentous body coverings (dinosaur &#8216;protofeathers&#8217; and pterosaur &#8216;pycnofibres&#8217;), show a limited diversity of form that is uncorrelated with colour in extant taxa. These patterns may be explained by convergent changes in the key melanocortin system of mammals and birds, which is known to affect pleiotropically both melanin-based colouration and energetic processes such as metabolic rate in vertebrates, and may therefore support a significant physiological shift in maniraptoran dinosaurs.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/ERDrj3220N8" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Melanosome evolution indicates a key physiological shift within feathered dinosaurs</dc:title>
+      <dc:creator>Quanguo Li</dc:creator>
+      <dc:creator>Julia A. Clarke</dc:creator>
+      <dc:creator>Ke-Qin Gao</dc:creator>
+      <dc:creator>Chang-Fu Zhou</dc:creator>
+      <dc:creator>Qingjin Meng</dc:creator>
+      <dc:creator>Daliang Li</dc:creator>
+      <dc:creator>Liliana D’Alba</dc:creator>
+      <dc:creator>Matthew D. Shawkey</dc:creator>
+      <dc:identifier>doi:10.1038/nature12973</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-02-12</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-02-12</prism:publicationDate>
+      <prism:doi>10.1038/nature12973</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nature12973</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Letter</prism:section>
+      <prism:startingPage>350</prism:startingPage>
+      <prism:endingPage>353</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nature12973</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nature12961">
+      <title>The genomic landscape of Neanderthal ancestry in present-day humans</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/qvfbowD8fTg/nature12961</link>
+      <description>Genomic studies have shown that Neanderthals interbred with modern humans, and that non-Africans today are the products of this mixture. The antiquity of Neanderthal gene flow into modern humans means that genomic regions that derive from Neanderthals in any one human today are usually less than a hundred kilobases in size. However, Neanderthal haplotypes are also distinctive enough that several studies have been able to detect Neanderthal ancestry at specific loci. We systematically infer Neanderthal haplotypes in the genomes of 1,004 present-day humans. Regions that harbour a high frequency of Neanderthal alleles are enriched for genes affecting keratin filaments, suggesting that Neanderthal alleles may have helped modern humans to adapt to non-African environments. We identify multiple Neanderthal-derived alleles that confer risk for disease, suggesting that Neanderthal alleles continue to shape human biology. An unexpected finding is that regions with reduced Neanderthal ancestry are enriched in genes, implying selection to remove genetic material derived from Neanderthals. Genes that are more highly expressed in testes than in any other tissue are especially reduced in Neanderthal ancestry, and there is an approximately fivefold reduction of Neanderthal ancestry on the X chromosome, which is known from studies of diverse species to be especially dense in male hybrid sterility genes. These results suggest that part of the explanation for genomic regions of reduced Neanderthal ancestry is Neanderthal alleles that caused decreased fertility in males when moved to a modern human genetic background.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>The genomic landscape of Neanderthal ancestry in present-day humans</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nature12961">doi:10.1038/nature12961</a>
+         </p>
+         <p>Authors: Sriram Sankararaman, Swapan Mallick, Michael Dannemann, Kay Pr&#252;fer, Janet Kelso, Svante P&#228;&#228;bo, Nick Patterson &amp; David Reich</p>
+         <p>Genomic studies have shown that Neanderthals interbred with modern humans, and that non-Africans today are the products of this mixture. The antiquity of Neanderthal gene flow into modern humans means that genomic regions that derive from Neanderthals in any one human today are usually less than a hundred kilobases in size. However, Neanderthal haplotypes are also distinctive enough that several studies have been able to detect Neanderthal ancestry at specific loci. We systematically infer Neanderthal haplotypes in the genomes of 1,004 present-day humans. Regions that harbour a high frequency of Neanderthal alleles are enriched for genes affecting keratin filaments, suggesting that Neanderthal alleles may have helped modern humans to adapt to non-African environments. We identify multiple Neanderthal-derived alleles that confer risk for disease, suggesting that Neanderthal alleles continue to shape human biology. An unexpected finding is that regions with reduced Neanderthal ancestry are enriched in genes, implying selection to remove genetic material derived from Neanderthals. Genes that are more highly expressed in testes than in any other tissue are especially reduced in Neanderthal ancestry, and there is an approximately fivefold reduction of Neanderthal ancestry on the X chromosome, which is known from studies of diverse species to be especially dense in male hybrid sterility genes. These results suggest that part of the explanation for genomic regions of reduced Neanderthal ancestry is Neanderthal alleles that caused decreased fertility in males when moved to a modern human genetic background.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/qvfbowD8fTg" height="1" width="1"/>]]></content:encoded>
+      <dc:title>The genomic landscape of Neanderthal ancestry in present-day humans</dc:title>
+      <dc:creator>Sriram Sankararaman</dc:creator>
+      <dc:creator>Swapan Mallick</dc:creator>
+      <dc:creator>Michael Dannemann</dc:creator>
+      <dc:creator>Kay Prüfer</dc:creator>
+      <dc:creator>Janet Kelso</dc:creator>
+      <dc:creator>Svante Pääbo</dc:creator>
+      <dc:creator>Nick Patterson</dc:creator>
+      <dc:creator>David Reich</dc:creator>
+      <dc:identifier>doi:10.1038/nature12961</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-01-29</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-01-29</prism:publicationDate>
+      <prism:doi>10.1038/nature12961</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nature12961</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Letter</prism:section>
+      <prism:startingPage>354</prism:startingPage>
+      <prism:endingPage>357</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nature12961</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nature12989">
+      <title>A dedicated circuit links direction-selective retinal ganglion cells to the primary visual cortex</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/12aHumLFePg/nature12989</link>
+      <description>How specific features in the environment are represented within the brain is an important unanswered question in neuroscience. A subset of retinal neurons, called direction-selective ganglion cells (DSGCs), are specialized for detecting motion along specific axes of the visual field. Despite extensive study of the retinal circuitry that endows DSGCs with their unique tuning properties, their downstream circuitry in the brain and thus their contribution to visual processing has remained unclear. In mice, several different types of DSGCs connect to the dorsal lateral geniculate nucleus (dLGN), the visual thalamic structure that harbours cortical relay neurons. Whether direction-selective information computed at the level of the retina is routed to cortical circuits and integrated with other visual channels, however, is unknown. Here we show that there is a di-synaptic circuit linking DSGCs with the superficial layers of the primary visual cortex (V1) by using viral trans-synaptic circuit mapping and functional imaging of visually driven calcium signals in thalamocortical axons. This circuit pools information from several types of DSGCs, converges in a specialized subdivision of the dLGN, and delivers direction-tuned and orientation-tuned signals to superficial V1. Notably, this circuit is anatomically segregated from the retino-geniculo-cortical pathway carrying non-direction-tuned visual information to deeper layers of V1, such as layer 4. Thus, the mouse harbours several functionally specialized, parallel retino-geniculo-cortical pathways, one of which originates with retinal DSGCs and delivers direction- and orientation-tuned information specifically to the superficial layers of the primary visual cortex. These data provide evidence that direction and orientation selectivity of some V1 neurons may be influenced by the activation of DSGCs.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>A dedicated circuit links direction-selective retinal ganglion cells to the primary visual cortex</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nature12989">doi:10.1038/nature12989</a>
+         </p>
+         <p>Authors: Alberto Cruz-Mart&#237;n, Rana N. El-Danaf, Fumitaka Osakada, Balaji Sriram, Onkar S. Dhande, Phong L. Nguyen, Edward M. Callaway, Anirvan Ghosh &amp; Andrew D. Huberman</p>
+         <p>How specific features in the environment are represented within the brain is an important unanswered question in neuroscience. A subset of retinal neurons, called direction-selective ganglion cells (DSGCs), are specialized for detecting motion along specific axes of the visual field. Despite extensive study of the retinal circuitry that endows DSGCs with their unique tuning properties, their downstream circuitry in the brain and thus their contribution to visual processing has remained unclear. In mice, several different types of DSGCs connect to the dorsal lateral geniculate nucleus (dLGN), the visual thalamic structure that harbours cortical relay neurons. Whether direction-selective information computed at the level of the retina is routed to cortical circuits and integrated with other visual channels, however, is unknown. Here we show that there is a di-synaptic circuit linking DSGCs with the superficial layers of the primary visual cortex (V1) by using viral trans-synaptic circuit mapping and functional imaging of visually driven calcium signals in thalamocortical axons. This circuit pools information from several types of DSGCs, converges in a specialized subdivision of the dLGN, and delivers direction-tuned and orientation-tuned signals to superficial V1. Notably, this circuit is anatomically segregated from the retino-geniculo-cortical pathway carrying non-direction-tuned visual information to deeper layers of V1, such as layer 4. Thus, the mouse harbours several functionally specialized, parallel retino-geniculo-cortical pathways, one of which originates with retinal DSGCs and delivers direction- and orientation-tuned information specifically to the superficial layers of the primary visual cortex. These data provide evidence that direction and orientation selectivity of some V1 neurons may be influenced by the activation of DSGCs.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/12aHumLFePg" height="1" width="1"/>]]></content:encoded>
+      <dc:title>A dedicated circuit links direction-selective retinal ganglion cells to the primary visual cortex</dc:title>
+      <dc:creator>Alberto Cruz-Martín</dc:creator>
+      <dc:creator>Rana N. El-Danaf</dc:creator>
+      <dc:creator>Fumitaka Osakada</dc:creator>
+      <dc:creator>Balaji Sriram</dc:creator>
+      <dc:creator>Onkar S. Dhande</dc:creator>
+      <dc:creator>Phong L. Nguyen</dc:creator>
+      <dc:creator>Edward M. Callaway</dc:creator>
+      <dc:creator>Anirvan Ghosh</dc:creator>
+      <dc:creator>Andrew D. Huberman</dc:creator>
+      <dc:identifier>doi:10.1038/nature12989</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-02-26</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-02-26</prism:publicationDate>
+      <prism:doi>10.1038/nature12989</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nature12989</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Letter</prism:section>
+      <prism:startingPage>358</prism:startingPage>
+      <prism:endingPage>361</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nature12989</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nature12972">
+      <title>Intestinal crypt homeostasis revealed at single-stem-cell level by in vivo live imaging</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/MlYKEoBj_fk/nature12972</link>
+      <description>The rapid turnover of the mammalian intestinal epithelium is supported by stem cells located around the base of the crypt. In addition to the Lgr5 marker, intestinal stem cells have been associated with other markers that are expressed heterogeneously within the crypt base region. Previous quantitative clonal fate analyses have led to the proposal that homeostasis occurs as the consequence of neutral competition between dividing stem cells. However, the short-term behaviour of individual Lgr5+ cells positioned at different locations within the crypt base compartment has not been resolved. Here we establish the short-term dynamics of intestinal stem cells using the novel approach of continuous intravital imaging of Lgr5-Confetti mice. We find that Lgr5+ cells in the upper part of the niche (termed ‘border cells’) can be passively displaced into the transit-amplifying domain, after the division of proximate cells, implying that the determination of stem-cell fate can be uncoupled from division. Through quantitative analysis of individual clonal lineages, we show that stem cells at the crypt base, termed ‘central cells’, experience a survival advantage over border stem cells. However, through the transfer of stem cells between the border and central regions, all Lgr5+ cells are endowed with long-term self-renewal potential. These findings establish a novel paradigm for stem-cell maintenance in which a dynamically heterogeneous cell population is able to function long term as a single stem-cell pool.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Intestinal crypt homeostasis revealed at single-stem-cell level by in vivo live imaging</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nature12972">doi:10.1038/nature12972</a>
+         </p>
+         <p>Authors: Laila Ritsma, Saskia I. J. Ellenbroek, Anoek Zomer, Hugo J. Snippert, Frederic J. de Sauvage, Benjamin D. Simons, Hans Clevers &amp; Jacco van Rheenen</p>
+         <p>The rapid turnover of the mammalian intestinal epithelium is supported by stem cells located around the base of the crypt. In addition to the Lgr5 marker, intestinal stem cells have been associated with other markers that are expressed heterogeneously within the crypt base region. Previous quantitative clonal fate analyses have led to the proposal that homeostasis occurs as the consequence of neutral competition between dividing stem cells. However, the short-term behaviour of individual Lgr5+ cells positioned at different locations within the crypt base compartment has not been resolved. Here we establish the short-term dynamics of intestinal stem cells using the novel approach of continuous intravital imaging of Lgr5-Confetti mice. We find that Lgr5+ cells in the upper part of the niche (termed &#8216;border cells&#8217;) can be passively displaced into the transit-amplifying domain, after the division of proximate cells, implying that the determination of stem-cell fate can be uncoupled from division. Through quantitative analysis of individual clonal lineages, we show that stem cells at the crypt base, termed &#8216;central cells&#8217;, experience a survival advantage over border stem cells. However, through the transfer of stem cells between the border and central regions, all Lgr5+ cells are endowed with long-term self-renewal potential. These findings establish a novel paradigm for stem-cell maintenance in which a dynamically heterogeneous cell population is able to function long term as a single stem-cell pool.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/MlYKEoBj_fk" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Intestinal crypt homeostasis revealed at single-stem-cell level by in vivo live imaging</dc:title>
+      <dc:creator>Laila Ritsma</dc:creator>
+      <dc:creator>Saskia I. J. Ellenbroek</dc:creator>
+      <dc:creator>Anoek Zomer</dc:creator>
+      <dc:creator>Hugo J. Snippert</dc:creator>
+      <dc:creator>Frederic J. de Sauvage</dc:creator>
+      <dc:creator>Benjamin D. Simons</dc:creator>
+      <dc:creator>Hans Clevers</dc:creator>
+      <dc:creator>Jacco van Rheenen</dc:creator>
+      <dc:identifier>doi:10.1038/nature12972</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-02-16</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-02-16</prism:publicationDate>
+      <prism:doi>10.1038/nature12972</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nature12972</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Letter</prism:section>
+      <prism:startingPage>362</prism:startingPage>
+      <prism:endingPage>365</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nature12972</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nature12979">
+      <title>IL-35-producing B cells are critical regulators of immunity during autoimmune and infectious diseases</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/TR9V_ogoDX4/nature12979</link>
+      <description>B lymphocytes have critical roles as positive and negative regulators of immunity. Their inhibitory function has been associated primarily with interleukin 10 (IL-10) because B-cell-derived IL-10 can protect against autoimmune disease and increase susceptibility to pathogens. Here we identify IL-35-producing B cells as key players in the negative regulation of immunity. Mice in which only B cells did not express IL-35 lost their ability to recover from the T-cell-mediated demyelinating autoimmune disease experimental autoimmune encephalomyelitis (EAE). In contrast, these mice displayed a markedly improved resistance to infection with the intracellular bacterial pathogen Salmonella enterica serovar Typhimurium as shown by their superior containment of the bacterial growth and their prolonged survival after primary infection, and upon secondary challenge, compared to control mice. The increased immunity found in mice lacking IL-35 production by B cells was associated with a higher activation of macrophages and inflammatory T cells, as well as an increased function of B cells as antigen-presenting cells (APCs). During Salmonella infection, IL-35- and IL-10-producing B cells corresponded to two largely distinct sets of surface-IgM+CD138hiTACI+CXCR4+CD1dintTim1int plasma cells expressing the transcription factor Blimp1 (also known as Prdm1). During EAE, CD138+ plasma cells were also the main source of B-cell-derived IL-35 and IL-10. Collectively, our data show the importance of IL-35-producing B cells in regulation of immunity and highlight IL-35 production by B cells as a potential therapeutic target for autoimmune and infectious diseases. This study reveals the central role of activated B cells, particularly plasma cells, and their production of cytokines in the regulation of immune responses in health and disease.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>IL-35-producing B cells are critical regulators of immunity during autoimmune and infectious diseases</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nature12979">doi:10.1038/nature12979</a>
+         </p>
+         <p>Authors: Ping Shen, Toralf Roch, Vicky Lampropoulou, Richard A. O&#8217;Connor, Ulrik Stervbo, Ellen Hilgenberg, Stefanie Ries, Van Duc Dang, Yar&#250;a Jaimes, Capucine Daridon, Rui Li, Luc Jouneau, Pierre Boudinot, Siska Wilantri, Imme Sakwa, Yusei Miyazaki, Melanie D. Leech, Rhoanne C. McPherson, Stefan Wirtz, Markus Neurath, Kai Hoehlig, Edgar Meinl, Andreas Gr&#252;tzkau, Joachim R. Gr&#252;n, Katharina Horn, Anja A. K&#252;hl, Thomas D&#246;rner, Amit Bar-Or, Stefan H. E. Kaufmann, Stephen M. Anderton &amp; Simon Fillatreau</p>
+         <p>B lymphocytes have critical roles as positive and negative regulators of immunity. Their inhibitory function has been associated primarily with interleukin 10 (IL-10) because B-cell-derived IL-10 can protect against autoimmune disease and increase susceptibility to pathogens. Here we identify IL-35-producing B cells as key players in the negative regulation of immunity. Mice in which only B cells did not express IL-35 lost their ability to recover from the T-cell-mediated demyelinating autoimmune disease experimental autoimmune encephalomyelitis (EAE). In contrast, these mice displayed a markedly improved resistance to infection with the intracellular bacterial pathogen Salmonella enterica serovar Typhimurium as shown by their superior containment of the bacterial growth and their prolonged survival after primary infection, and upon secondary challenge, compared to control mice. The increased immunity found in mice lacking IL-35 production by B cells was associated with a higher activation of macrophages and inflammatory T cells, as well as an increased function of B cells as antigen-presenting cells (APCs). During Salmonella infection, IL-35- and IL-10-producing B cells corresponded to two largely distinct sets of surface-IgM+CD138hiTACI+CXCR4+CD1dintTim1int plasma cells expressing the transcription factor Blimp1 (also known as Prdm1). During EAE, CD138+ plasma cells were also the main source of B-cell-derived IL-35 and IL-10. Collectively, our data show the importance of IL-35-producing B cells in regulation of immunity and highlight IL-35 production by B cells as a potential therapeutic target for autoimmune and infectious diseases. This study reveals the central role of activated B cells, particularly plasma cells, and their production of cytokines in the regulation of immune responses in health and disease.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/TR9V_ogoDX4" height="1" width="1"/>]]></content:encoded>
+      <dc:title>IL-35-producing B cells are critical regulators of immunity during autoimmune and infectious diseases</dc:title>
+      <dc:creator>Ping Shen</dc:creator>
+      <dc:creator>Toralf Roch</dc:creator>
+      <dc:creator>Vicky Lampropoulou</dc:creator>
+      <dc:creator>Richard A. O’Connor</dc:creator>
+      <dc:creator>Ulrik Stervbo</dc:creator>
+      <dc:creator>Ellen Hilgenberg</dc:creator>
+      <dc:creator>Stefanie Ries</dc:creator>
+      <dc:creator>Van Duc Dang</dc:creator>
+      <dc:creator>Yarúa Jaimes</dc:creator>
+      <dc:creator>Capucine Daridon</dc:creator>
+      <dc:creator>Rui Li</dc:creator>
+      <dc:creator>Luc Jouneau</dc:creator>
+      <dc:creator>Pierre Boudinot</dc:creator>
+      <dc:creator>Siska Wilantri</dc:creator>
+      <dc:creator>Imme Sakwa</dc:creator>
+      <dc:creator>Yusei Miyazaki</dc:creator>
+      <dc:creator>Melanie D. Leech</dc:creator>
+      <dc:creator>Rhoanne C. McPherson</dc:creator>
+      <dc:creator>Stefan Wirtz</dc:creator>
+      <dc:creator>Markus Neurath</dc:creator>
+      <dc:creator>Kai Hoehlig</dc:creator>
+      <dc:creator>Edgar Meinl</dc:creator>
+      <dc:creator>Andreas Grützkau</dc:creator>
+      <dc:creator>Joachim R. Grün</dc:creator>
+      <dc:creator>Katharina Horn</dc:creator>
+      <dc:creator>Anja A. Kühl</dc:creator>
+      <dc:creator>Thomas Dörner</dc:creator>
+      <dc:creator>Amit Bar-Or</dc:creator>
+      <dc:creator>Stefan H. E. Kaufmann</dc:creator>
+      <dc:creator>Stephen M. Anderton</dc:creator>
+      <dc:creator>Simon Fillatreau</dc:creator>
+      <dc:identifier>doi:10.1038/nature12979</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-02-23</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-02-23</prism:publicationDate>
+      <prism:doi>10.1038/nature12979</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nature12979</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Letter</prism:section>
+      <prism:startingPage>366</prism:startingPage>
+      <prism:endingPage>370</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nature12979</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nature13138">
+      <title>Obesity-associated variants within FTO form long-range functional connections with IRX3</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/E4PA4efa0rQ/nature13138</link>
+      <description>Genome-wide association studies (GWAS) have reproducibly associated variants within introns of FTO with increased risk for obesity and type 2 diabetes (T2D). Although the molecular mechanisms linking these noncoding variants with obesity are not immediately obvious, subsequent studies in mice demonstrated that FTO expression levels influence body mass and composition phenotypes. However, no direct connection between the obesity-associated variants and FTO expression or function has been made. Here we show that the obesity-associated noncoding sequences within FTO are functionally connected, at megabase distances, with the homeobox gene IRX3. The obesity-associated FTO region directly interacts with the promoters of IRX3 as well as FTO in the human, mouse and zebrafish genomes. Furthermore, long-range enhancers within this region recapitulate aspects of IRX3 expression, suggesting that the obesity-associated interval belongs to the regulatory landscape of IRX3. Consistent with this, obesity-associated single nucleotide polymorphisms are associated with expression of IRX3, but not FTO, in human brains. A direct link between IRX3 expression and regulation of body mass and composition is demonstrated by a reduction in body weight of 25 to 30% in Irx3-deficient mice, primarily through the loss of fat mass and increase in basal metabolic rate with browning of white adipose tissue. Finally, hypothalamic expression of a dominant-negative form of Irx3 reproduces the metabolic phenotypes of Irx3-deficient mice. Our data suggest that IRX3 is a functional long-range target of obesity-associated variants within FTO and represents a novel determinant of body mass and composition.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Obesity-associated variants within FTO form long-range functional connections with IRX3</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nature13138">doi:10.1038/nature13138</a>
+         </p>
+         <p>Authors: Scott Smemo, Juan J. Tena, Kyoung-Han Kim, Eric R. Gamazon, Noboru J. Sakabe, Carlos G&#243;mez-Mar&#237;n, Ivy Aneas, Flavia L. Credidio, D&#233;bora R. Sobreira, Nora F. Wasserman, Ju Hee Lee, Vijitha Puviindran, Davis Tam, Michael Shen, Joe Eun Son, Niki Alizadeh Vakili, Hoon-Ki Sung, Silvia Naranjo, Rafael D. Acemel, Miguel Manzanares, Andras Nagy, Nancy J. Cox, Chi-Chung Hui, Jose Luis Gomez-Skarmeta &amp; Marcelo A. N&#243;brega</p>
+         <p>Genome-wide association studies (GWAS) have reproducibly associated variants within introns of FTO with increased risk for obesity and type 2 diabetes (T2D). Although the molecular mechanisms linking these noncoding variants with obesity are not immediately obvious, subsequent studies in mice demonstrated that FTO expression levels influence body mass and composition phenotypes. However, no direct connection between the obesity-associated variants and FTO expression or function has been made. Here we show that the obesity-associated noncoding sequences within FTO are functionally connected, at megabase distances, with the homeobox gene IRX3. The obesity-associated FTO region directly interacts with the promoters of IRX3 as well as FTO in the human, mouse and zebrafish genomes. Furthermore, long-range enhancers within this region recapitulate aspects of IRX3 expression, suggesting that the obesity-associated interval belongs to the regulatory landscape of IRX3. Consistent with this, obesity-associated single nucleotide polymorphisms are associated with expression of IRX3, but not FTO, in human brains. A direct link between IRX3 expression and regulation of body mass and composition is demonstrated by a reduction in body weight of 25 to 30% in Irx3-deficient mice, primarily through the loss of fat mass and increase in basal metabolic rate with browning of white adipose tissue. Finally, hypothalamic expression of a dominant-negative form of Irx3 reproduces the metabolic phenotypes of Irx3-deficient mice. Our data suggest that IRX3 is a functional long-range target of obesity-associated variants within FTO and represents a novel determinant of body mass and composition.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/E4PA4efa0rQ" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Obesity-associated variants within FTO form long-range functional connections with IRX3</dc:title>
+      <dc:creator>Scott Smemo</dc:creator>
+      <dc:creator>Juan J. Tena</dc:creator>
+      <dc:creator>Kyoung-Han Kim</dc:creator>
+      <dc:creator>Eric R. Gamazon</dc:creator>
+      <dc:creator>Noboru J. Sakabe</dc:creator>
+      <dc:creator>Carlos Gómez-Marín</dc:creator>
+      <dc:creator>Ivy Aneas</dc:creator>
+      <dc:creator>Flavia L. Credidio</dc:creator>
+      <dc:creator>Débora R. Sobreira</dc:creator>
+      <dc:creator>Nora F. Wasserman</dc:creator>
+      <dc:creator>Ju Hee Lee</dc:creator>
+      <dc:creator>Vijitha Puviindran</dc:creator>
+      <dc:creator>Davis Tam</dc:creator>
+      <dc:creator>Michael Shen</dc:creator>
+      <dc:creator>Joe Eun Son</dc:creator>
+      <dc:creator>Niki Alizadeh Vakili</dc:creator>
+      <dc:creator>Hoon-Ki Sung</dc:creator>
+      <dc:creator>Silvia Naranjo</dc:creator>
+      <dc:creator>Rafael D. Acemel</dc:creator>
+      <dc:creator>Miguel Manzanares</dc:creator>
+      <dc:creator>Andras Nagy</dc:creator>
+      <dc:creator>Nancy J. Cox</dc:creator>
+      <dc:creator>Chi-Chung Hui</dc:creator>
+      <dc:creator>Jose Luis Gomez-Skarmeta</dc:creator>
+      <dc:creator>Marcelo A. Nóbrega</dc:creator>
+      <dc:identifier>doi:10.1038/nature13138</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-12</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-12</prism:publicationDate>
+      <prism:doi>10.1038/nature13138</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nature13138</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Letter</prism:section>
+      <prism:startingPage>371</prism:startingPage>
+      <prism:endingPage>375</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nature13138</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nature13146">
+      <title>Endothelial Notch activity promotes angiogenesis and osteogenesis in bone</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/MgSYN9a1gO4/nature13146</link>
+      <description>Blood vessel growth in the skeletal system and osteogenesis seem to be coupled, suggesting the existence of molecular crosstalk between endothelial and osteoblastic cells. Understanding the nature of the mechanisms linking angiogenesis and bone formation should be of great relevance for improved fracture healing or prevention of bone mass loss. Here we show that vascular growth in bone involves a specialized, tissue-specific form of angiogenesis. Notch signalling promotes endothelial cell proliferation and vessel growth in postnatal long bone, which is the opposite of the well-established function of Notch and its ligand Dll4 in the endothelium of other organs and tumours. Endothelial-cell-specific and inducible genetic disruption of Notch signalling in mice not only impaired bone vessel morphology and growth, but also led to reduced osteogenesis, shortening of long bones, chondrocyte defects, loss of trabeculae and decreased bone mass. On the basis of a series of genetic experiments, we conclude that skeletal defects in these mutants involved defective angiocrine release of Noggin from endothelial cells, which is positively regulated by Notch. Administration of recombinant Noggin, a secreted antagonist of bone morphogenetic proteins, restored bone growth and mineralization, chondrocyte maturation, the formation of trabeculae and osteoprogenitor numbers in endothelial-cell-specific Notch pathway mutants. These findings establish a molecular framework coupling angiogenesis, angiocrine signals and osteogenesis, which may prove significant for the development of future therapeutic applications.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Endothelial Notch activity promotes angiogenesis and osteogenesis in bone</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nature13146">doi:10.1038/nature13146</a>
+         </p>
+         <p>Authors: Saravana K. Ramasamy, Anjali P. Kusumbe, Lin Wang &amp; Ralf H. Adams</p>
+         <p>Blood vessel growth in the skeletal system and osteogenesis seem to be coupled, suggesting the existence of molecular crosstalk between endothelial and osteoblastic cells. Understanding the nature of the mechanisms linking angiogenesis and bone formation should be of great relevance for improved fracture healing or prevention of bone mass loss. Here we show that vascular growth in bone involves a specialized, tissue-specific form of angiogenesis. Notch signalling promotes endothelial cell proliferation and vessel growth in postnatal long bone, which is the opposite of the well-established function of Notch and its ligand Dll4 in the endothelium of other organs and tumours. Endothelial-cell-specific and inducible genetic disruption of Notch signalling in mice not only impaired bone vessel morphology and growth, but also led to reduced osteogenesis, shortening of long bones, chondrocyte defects, loss of trabeculae and decreased bone mass. On the basis of a series of genetic experiments, we conclude that skeletal defects in these mutants involved defective angiocrine release of Noggin from endothelial cells, which is positively regulated by Notch. Administration of recombinant Noggin, a secreted antagonist of bone morphogenetic proteins, restored bone growth and mineralization, chondrocyte maturation, the formation of trabeculae and osteoprogenitor numbers in endothelial-cell-specific Notch pathway mutants. These findings establish a molecular framework coupling angiogenesis, angiocrine signals and osteogenesis, which may prove significant for the development of future therapeutic applications.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/MgSYN9a1gO4" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Endothelial Notch activity promotes angiogenesis and osteogenesis in bone</dc:title>
+      <dc:creator>Saravana K. Ramasamy</dc:creator>
+      <dc:creator>Anjali P. Kusumbe</dc:creator>
+      <dc:creator>Lin Wang</dc:creator>
+      <dc:creator>Ralf H. Adams</dc:creator>
+      <dc:identifier>doi:10.1038/nature13146</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-12</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-12</prism:publicationDate>
+      <prism:doi>10.1038/nature13146</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nature13146</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Letter</prism:section>
+      <prism:startingPage>376</prism:startingPage>
+      <prism:endingPage>380</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nature13146</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nature12974">
+      <title>Two independent transcription initiation codes overlap on vertebrate core promoters</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/gRzDIETFVZE/nature12974</link>
+      <description>A core promoter is a stretch of DNA surrounding the transcription start site (TSS) that integrates regulatory inputs and recruits general transcription factors to initiate transcription. The nature and causative relationship of the DNA sequence and chromatin signals that govern the selection of most TSSs by RNA polymerase II remain unresolved. Maternal to zygotic transition represents the most marked change of the transcriptome repertoire in the vertebrate life cycle. Early embryonic development in zebrafish is characterized by a series of transcriptionally silent cell cycles regulated by inherited maternal gene products: zygotic genome activation commences at the tenth cell cycle, marking the mid-blastula transition. This transition provides a unique opportunity to study the rules of TSS selection and the hierarchy of events linking transcription initiation with key chromatin modifications. We analysed TSS usage during zebrafish early embryonic development at high resolution using cap analysis of gene expression, and determined the positions of H3K4me3-marked promoter-associated nucleosomes. Here we show that the transition from the maternal to zygotic transcriptome is characterized by a switch between two fundamentally different modes of defining transcription initiation, which drive the dynamic change of TSS usage and promoter shape. A maternal-specific TSS selection, which requires an A/T-rich (W-box) motif, is replaced with a zygotic TSS selection grammar characterized by broader patterns of dinucleotide enrichments, precisely aligned with the first downstream (+1) nucleosome. The developmental dynamics of the H3K4me3-marked nucleosomes reveal their DNA-sequence-associated positioning at promoters before zygotic transcription and subsequent transcription-independent adjustment to the final position downstream of the zygotic TSS. The two TSS-defining grammars coexist, often physically overlapping, in core promoters of constitutively expressed genes to enable their expression in the two regulatory environments. The dissection of overlapping core promoter determinants represents a framework for future studies of promoter structure and function across different regulatory contexts.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Two independent transcription initiation codes overlap on vertebrate core promoters</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nature12974">doi:10.1038/nature12974</a>
+         </p>
+         <p>Authors: Vanja Haberle, Nan Li, Yavor Hadzhiev, Charles Plessy, Christopher Previti, Chirag Nepal, Jochen Gehrig, Xianjun Dong, Altuna Akalin, Ana Maria Suzuki, Wilfred F. J. van IJcken, Olivier Armant, Marco Ferg, Uwe Str&#228;hle, Piero Carninci, Ferenc M&#252;ller &amp; Boris Lenhard</p>
+         <p>A core promoter is a stretch of DNA surrounding the transcription start site (TSS) that integrates regulatory inputs and recruits general transcription factors to initiate transcription. The nature and causative relationship of the DNA sequence and chromatin signals that govern the selection of most TSSs by RNA polymerase II remain unresolved. Maternal to zygotic transition represents the most marked change of the transcriptome repertoire in the vertebrate life cycle. Early embryonic development in zebrafish is characterized by a series of transcriptionally silent cell cycles regulated by inherited maternal gene products: zygotic genome activation commences at the tenth cell cycle, marking the mid-blastula transition. This transition provides a unique opportunity to study the rules of TSS selection and the hierarchy of events linking transcription initiation with key chromatin modifications. We analysed TSS usage during zebrafish early embryonic development at high resolution using cap analysis of gene expression, and determined the positions of H3K4me3-marked promoter-associated nucleosomes. Here we show that the transition from the maternal to zygotic transcriptome is characterized by a switch between two fundamentally different modes of defining transcription initiation, which drive the dynamic change of TSS usage and promoter shape. A maternal-specific TSS selection, which requires an A/T-rich (W-box) motif, is replaced with a zygotic TSS selection grammar characterized by broader patterns of dinucleotide enrichments, precisely aligned with the first downstream (+1) nucleosome. The developmental dynamics of the H3K4me3-marked nucleosomes reveal their DNA-sequence-associated positioning at promoters before zygotic transcription and subsequent transcription-independent adjustment to the final position downstream of the zygotic TSS. The two TSS-defining grammars coexist, often physically overlapping, in core promoters of constitutively expressed genes to enable their expression in the two regulatory environments. The dissection of overlapping core promoter determinants represents a framework for future studies of promoter structure and function across different regulatory contexts.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/gRzDIETFVZE" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Two independent transcription initiation codes overlap on vertebrate core promoters</dc:title>
+      <dc:creator>Vanja Haberle</dc:creator>
+      <dc:creator>Nan Li</dc:creator>
+      <dc:creator>Yavor Hadzhiev</dc:creator>
+      <dc:creator>Charles Plessy</dc:creator>
+      <dc:creator>Christopher Previti</dc:creator>
+      <dc:creator>Chirag Nepal</dc:creator>
+      <dc:creator>Jochen Gehrig</dc:creator>
+      <dc:creator>Xianjun Dong</dc:creator>
+      <dc:creator>Altuna Akalin</dc:creator>
+      <dc:creator>Ana Maria Suzuki</dc:creator>
+      <dc:creator>Wilfred F. J. van IJcken</dc:creator>
+      <dc:creator>Olivier Armant</dc:creator>
+      <dc:creator>Marco Ferg</dc:creator>
+      <dc:creator>Uwe Strähle</dc:creator>
+      <dc:creator>Piero Carninci</dc:creator>
+      <dc:creator>Ferenc Müller</dc:creator>
+      <dc:creator>Boris Lenhard</dc:creator>
+      <dc:identifier>doi:10.1038/nature12974</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-02-16</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-02-16</prism:publicationDate>
+      <prism:doi>10.1038/nature12974</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nature12974</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Letter</prism:section>
+      <prism:startingPage>381</prism:startingPage>
+      <prism:endingPage>385</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nature12974</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nature13077">
+      <title>Addendum: Optical-field-induced current in dielectrics</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/lysJ0YgW7OA/nature13077</link>
+      <description>Nature493, 70–74 (2013); doi:10.1038/nature11567Calculations in this Letter and in ref. 2 are sensitive to the dipole matrix elements,  (i, j = 1, 2), describing the transitions between the two uppermost valence (</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Addendum: Optical-field-induced current in dielectrics</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nature13077">doi:10.1038/nature13077</a>
+         </p>
+         <p>Authors: Agustin Schiffrin, Tim Paasch-Colberg, Nicholas Karpowicz, Vadym Apalkov, Daniel Gerster, Sascha M&#252;hlbrandt, Michael Korbman, Joachim Reichert, Martin Schultze, Simon Holzner, Johannes V. Barth, Reinhard Kienberger, Ralph Ernstorfer, Vladislav S. Yakovlev, Mark I. Stockman &amp; Ferenc Krausz</p>
+         <p>Nature493, 70&#8211;74 (2013); doi:10.1038/nature11567Calculations in this Letter and in ref. 2 are sensitive to the dipole matrix elements,  (i,&#8201;j = 1,&#8201;2), describing the transitions between the two uppermost valence (</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/lysJ0YgW7OA" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Addendum: Optical-field-induced current in dielectrics</dc:title>
+      <dc:creator>Agustin Schiffrin</dc:creator>
+      <dc:creator>Tim Paasch-Colberg</dc:creator>
+      <dc:creator>Nicholas Karpowicz</dc:creator>
+      <dc:creator>Vadym Apalkov</dc:creator>
+      <dc:creator>Daniel Gerster</dc:creator>
+      <dc:creator>Sascha Mühlbrandt</dc:creator>
+      <dc:creator>Michael Korbman</dc:creator>
+      <dc:creator>Joachim Reichert</dc:creator>
+      <dc:creator>Martin Schultze</dc:creator>
+      <dc:creator>Simon Holzner</dc:creator>
+      <dc:creator>Johannes V. Barth</dc:creator>
+      <dc:creator>Reinhard Kienberger</dc:creator>
+      <dc:creator>Ralph Ernstorfer</dc:creator>
+      <dc:creator>Vladislav S. Yakovlev</dc:creator>
+      <dc:creator>Mark I. Stockman</dc:creator>
+      <dc:creator>Ferenc Krausz</dc:creator>
+      <dc:identifier>doi:10.1038/nature13077</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/nature13077</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nature13077</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Addendum</prism:section>
+      <prism:startingPage>386</prism:startingPage>
+      <prism:endingPage>387</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nature13077</feedburner:origLink></item>
+   <item rdf:about="http://dx.doi.org/10.1038/nature13142">
+      <title>Erratum: Global carbon dioxide emissions from inland waters</title>
+      <link>http://feeds.nature.com/~r/nature/rss/current/~3/E70TanAi6LU/nature13142</link>
+      <description>Nature503, 355–359 (2013); doi:10.1038/nature12760In Fig. 1a of this Article, the highest value on the colour scale should be 11,772 instead of 1,772. This has been corrected in the HTML and PDF versions of the paper online.</description>
+      <content:encoded><![CDATA[
+			<p>
+            <b>Erratum: Global carbon dioxide emissions from inland waters</b>
+         </p>
+         <p>Nature 507, 7492 (2014). <a href="http://dx.doi.org/10.1038/nature13142">doi:10.1038/nature13142</a>
+         </p>
+         <p>Authors: Peter A. Raymond, Jens Hartmann, Ronny Lauerwald, Sebastian Sobek, Cory McDonald, Mark Hoover, David Butman, Robert Striegl, Emilio Mayorga, Christoph Humborg, Pirkko Kortelainen, Hans D&#252;rr, Michel Meybeck, Philippe Ciais &amp; Peter Guth</p>
+         <p>Nature503, 355&#8211;359 (2013); doi:10.1038/nature12760In Fig. 1a of this Article, the highest value on the colour scale should be 11,772 instead of 1,772. This has been corrected in the HTML and PDF versions of the paper online.</p>
+				<img src="http://feeds.feedburner.com/~r/nature/rss/current/~4/E70TanAi6LU" height="1" width="1"/>]]></content:encoded>
+      <dc:title>Erratum: Global carbon dioxide emissions from inland waters</dc:title>
+      <dc:creator>Peter A. Raymond</dc:creator>
+      <dc:creator>Jens Hartmann</dc:creator>
+      <dc:creator>Ronny Lauerwald</dc:creator>
+      <dc:creator>Sebastian Sobek</dc:creator>
+      <dc:creator>Cory McDonald</dc:creator>
+      <dc:creator>Mark Hoover</dc:creator>
+      <dc:creator>David Butman</dc:creator>
+      <dc:creator>Robert Striegl</dc:creator>
+      <dc:creator>Emilio Mayorga</dc:creator>
+      <dc:creator>Christoph Humborg</dc:creator>
+      <dc:creator>Pirkko Kortelainen</dc:creator>
+      <dc:creator>Hans Dürr</dc:creator>
+      <dc:creator>Michel Meybeck</dc:creator>
+      <dc:creator>Philippe Ciais</dc:creator>
+      <dc:creator>Peter Guth</dc:creator>
+      <dc:identifier>doi:10.1038/nature13142</dc:identifier>
+      <dc:source>Nature 507, 7492 (2014)</dc:source>
+      <dc:date>2014-03-19</dc:date>
+      <prism:publicationName>Nature</prism:publicationName>
+      <prism:publicationDate>2014-03-19</prism:publicationDate>
+      <prism:doi>10.1038/nature13142</prism:doi>
+      <prism:url>http://dx.doi.org/10.1038/nature13142</prism:url>
+      <prism:volume>507</prism:volume>
+      <prism:number>7492</prism:number>
+      <prism:section>Erratum</prism:section>
+      <prism:startingPage>387</prism:startingPage>
+      <prism:endingPage>387</prism:endingPage>
+   <feedburner:origLink>http://dx.doi.org/10.1038/nature13142</feedburner:origLink></item>
+</rdf:RDF>

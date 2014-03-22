@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/">
+<channel rdf:about="http://www.sciencemag.org/about"><title>Science: Current Issue</title>
+<link>http://www.sciencemag.org</link>
+<description><![CDATA[The best in science news, commentary, and research]]></description>
+<dc:publisher>American Association for the Advancement of Science</dc:publisher>
+<dc:creator>Stewart Wills (mailto:swills@aaas.org)</dc:creator>
+<dc:rights>Copyright 2013 American Association for the Advancement of Science</dc:rights>
+<dc:date>2014-03-20T11:29:15-04:00</dc:date>
+<dc:language>en</dc:language>
+<items>
+<rdf:Seq>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/twis.full"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1289.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/twil.full"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1294.1.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1294.2.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1295.1.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1295.2.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/findings.summary"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1296.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1298.1.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1298.2.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1299.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1301.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1302.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1306.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1311.1.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1311.2.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1312.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1313.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1314.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1315.1.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1315.2.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1316.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1318.abstract?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1319.abstract?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1320.abstract?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1322.abstract?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1323.abstract?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1325.abstract?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1326.abstract?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1243727.abstract?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1249531.abstract?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1330.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1333.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1336.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1339.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1343.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1347.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1350.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1353.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1357.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1360.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1363.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1366.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1370.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1373.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1376.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1378.1.summary?rss=1"/>
+<rdf:li resource="http://www.sciencemag.org/content/343/6177/1378.2.summary?rss=1"/>
+</rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/twis.full">
+<title>This Week in Science</title>
+<link>http://www.sciencemag.org/content/343/6177/twis.full</link>
+<dc:date>2014-03-21</dc:date>
+<description><![CDATA[There Goes the Neighborhood | Sourcing Martian Meteorites | Productive Dustiness | Cytologically Informative Fossils | All the Smells of the World | Predation Favors Parasitism | Giving Electrocatalysts an Edge | Coordinated Hair Growth | HIV Virulence | Oscillate to Synchronize | Ultrafast Manipulation | The Cuprate Pseudogap | Life and Cell Death | Transcripts Visualized in Situ | Serial Mutation | Translocation in Injury | Real Network Control]]></description>
+<dc:identifier>10.1126/science.343.6177.1288-a</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1289.summary?rss=1">
+<title>[Editorial] Exxon Valdez: 25 Years Later</title>
+<link>http://www.sciencemag.org/content/343/6177/1289.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Marcia McNutt</dc:creator>
+<description><![CDATA[After I was Called upon in 2010, as Director of the U.S. Geological Survey, to Help with well control and flow estimation for the Deepwater Horizon (DWH) oil spill, I reviewed what had been learned from the Exxon Valdez (EV) oil spill. Although EV and DWH differed in their spill characteristics and impacts, I suspected that insight gained in the decades since EV could help guide how to best invest research funds targeted for DWH recovery and future oil spill prevention
+Author: Marcia McNutt]]></description>
+<dc:identifier>10.1126/science.1253412</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/twil.full">
+<title>Editors' Choice</title>
+<link>http://www.sciencemag.org/content/343/6177/twil.full</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Sacha Vignieri</dc:creator>
+<description><![CDATA[Skunky or Social | Growing Back Hearing? | Root Down | Defect Control]]></description>
+<dc:subject>Evolution</dc:subject>
+<dc:identifier>10.1126/science.343.6177.1291-a</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1294.1.summary?rss=1">
+<title>[News of the Week] This Week's Section</title>
+<link>http://www.sciencemag.org/content/343/6177/1294.1.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<description><![CDATA[Follow the links below for a roundup of the week's top stories in science, or download a PDF of the entire section.
+Around the WorldFindingsRandom SamplesNewsmakers
+]]></description>
+<dc:identifier>10.1126/science.343.6177.1294-a</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1294.2.summary?rss=1">
+<title>[News of the Week] Around the World</title>
+<link>http://www.sciencemag.org/content/343/6177/1294.2.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<description><![CDATA[In science news around the world, the European Parliament approves tighter data privacy rules, a report from U.K. scientists criticizes the European Union's approval process for genetically modified crops, and more.
+]]></description>
+<dc:identifier>10.1126/science.343.6177.1294-b</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1295.1.summary?rss=1">
+<title>[News of the Week] Random Sample</title>
+<link>http://www.sciencemag.org/content/343/6177/1295.1.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<description><![CDATA[When an intern at the Hunterian Museum of the University of Glasgow in Scotland discovered a slide of the Blarney Stone in the museum collection, geologists there put its mythical origins to the test.
+]]></description>
+<dc:identifier>10.1126/science.343.6177.1295-a</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1295.2.summary?rss=1">
+<title>[News of the Week] Newsmakers</title>
+<link>http://www.sciencemag.org/content/343/6177/1295.2.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<description><![CDATA[The U.S. Senate has confirmed astrophysicist France Córdova, formerly chair of the Board of Regents of the Smithsonian Institution, as the new director of the National Science Foundation.
+]]></description>
+<dc:identifier>10.1126/science.343.6177.1295-b</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/findings.summary">
+<title>Findings</title>
+<link>http://www.sciencemag.org/content/343/6177/findings.summary</link>
+<dc:date>2014-03-21</dc:date>
+<description><![CDATA['Little Foot' Fossil Could Be a Human Ancestor]]></description>
+<dc:identifier>10.1126/science.343.6177.1295-c</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1296.summary?rss=1">
+<title>[News &amp; Analysis] First Wrinkles in Spacetime Confirm Cosmic Inflation</title>
+<link>http://www.sciencemag.org/content/343/6177/1296.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Adrian Cho</dc:creator>
+<description><![CDATA[Signs of gravitational waves shaking the newborn universe bolster the mind-boggling theory of cosmic inflation and electrify scientists the world over.
+Authors: Adrian Cho, Yudhijit Bhattacharjee]]></description>
+<dc:subject>Cosmology</dc:subject>
+<dc:identifier>10.1126/science.343.6177.1296</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1298.1.summary?rss=1">
+<title>[News &amp; Analysis] Hints of Detente Between NSF and Republicans</title>
+<link>http://www.sciencemag.org/content/343/6177/1298.1.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Jeffrey Mervis</dc:creator>
+<description><![CDATA[Congressional Republicans and the National Science Foundation appear to be creeping toward common ground in their yearlong fight over how the agency manages its $7 billion research portfolio.
+Author: Jeffrey Mervis]]></description>
+<dc:subject>U.S. Science Policy</dc:subject>
+<dc:identifier>10.1126/science.343.6177.1298-a</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1298.2.summary?rss=1">
+<title>[News &amp; Analysis] Dueling Visions for Agency</title>
+<link>http://www.sciencemag.org/content/343/6177/1298.2.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Jeffrey Mervis</dc:creator>
+<description><![CDATA[The Democratic alternative to the Republican bill would encourage the National Science Foundation to support more of the same high-quality research it now funds.
+Author: Jeffrey Mervis]]></description>
+<dc:identifier>10.1126/science.343.6177.1298-b</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1299.summary?rss=1">
+<title>[News &amp; Analysis] Irreproducibility Dogs New Reprogramming Method</title>
+<link>http://www.sciencemag.org/content/343/6177/1299.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Dennis Normile</dc:creator>
+<description><![CDATA[As scientists around the world attempt to reproduce a new way to make stem cells—so far without success—Science has learned that several co-authors on the feted papers have not yet made the cells either.
+Authors: Dennis Normile, Gretchen Vogel]]></description>
+<dc:subject>Stem Cells</dc:subject>
+<dc:identifier>10.1126/science.343.6177.1299</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1301.summary?rss=1">
+<title>[News &amp; Analysis] U.S. and Mexico Unleash a Flood Into Colorado Delta</title>
+<link>http://www.sciencemag.org/content/343/6177/1301.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Erik Stokstad</dc:creator>
+<description><![CDATA[Hoping for a boost to native vegetation, scientists will study the effects of an experimental flood of the Colorado River delta on trees, soil salinity, and ground water.
+Author: Erik Stokstad]]></description>
+<dc:subject>Restoration Ecology</dc:subject>
+<dc:identifier>10.1126/science.343.6177.1301</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1302.summary?rss=1">
+<title>[News Focus] A War Within a War</title>
+<link>http://www.sciencemag.org/content/343/6177/1302.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Leslie Roberts</dc:creator>
+<description><![CDATA[Fighting a major polio outbreak in the midst of Syria's bitter civil war is a test of commitment—and diplomacy.
+Author: Leslie Roberts]]></description>
+<dc:identifier>10.1126/science.343.6177.1302</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1306.summary?rss=1">
+<title>[News Focus] The Vigilante</title>
+<link>http://www.sciencemag.org/content/343/6177/1306.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Yudhijit Bhattacharjee</dc:creator>
+<description><![CDATA[When the ENCODE Project declared that there is no such thing as junk DNA, Dan Graur counterattacked. But does he go too far?
+Author: Yudhijit Bhattacharjee]]></description>
+<dc:identifier>10.1126/science.343.6177.1306</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1311.1.summary?rss=1">
+<title>[Letter] When Science-Based Management Isn't</title>
+<link>http://www.sciencemag.org/content/343/6177/1311.1.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Kyle A. Artelle</dc:creator>
+<description><![CDATA[Authors: Kyle A. Artelle, John D. Reynolds, Paul C. Paquet, Chris T. Darimont]]></description>
+<dc:identifier>10.1126/science.343.6177.1311-a</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1311.2.summary?rss=1">
+<title>[Letter] U.S. Policy Impedes Innovators</title>
+<link>http://www.sciencemag.org/content/343/6177/1311.2.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Arolyn Conwill</dc:creator>
+<description><![CDATA[Authors: Arolyn Conwill, Yuqing Cui, Daniel Day]]></description>
+<dc:identifier>10.1126/science.343.6177.1311-b</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1312.summary?rss=1">
+<title>[Letter] Supporting the Scientific Diaspora</title>
+<link>http://www.sciencemag.org/content/343/6177/1312.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Shermin de Silva</dc:creator>
+<description><![CDATA[Author: Shermin de Silva]]></description>
+<dc:identifier>10.1126/science.343.6177.1312</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1313.summary?rss=1">
+<title>[Correction] Corrections and Clarifications</title>
+<link>http://www.sciencemag.org/content/343/6177/1313.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<description><![CDATA[]]></description>
+<dc:identifier>10.1126/science.343.6177.1313</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1314.summary?rss=1">
+<title>[Book Review] To Connect More Equitably</title>
+<link>http://www.sciencemag.org/content/343/6177/1314.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Emily Brennan</dc:creator>
+<description><![CDATA[Research on the ways people learn and share information about health and science, Southwell argues, suggest that systematic reliance on social networks will increase inequity.
+Author: Emily Brennan]]></description>
+<dc:subject>Social Sciences</dc:subject>
+<dc:identifier>10.1126/science.1250907</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1315.1.summary?rss=1">
+<title>[Book Review] Wonders from Cambridge Collections</title>
+<link>http://www.sciencemag.org/content/343/6177/1315.1.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Deborah Dixon</dc:creator>
+<description><![CDATA[Juxtaposing objects from eight Cambridge University museums, the exhibition illustrates links among art, science, and exploration.
+Author: Deborah Dixon]]></description>
+<dc:subject>Exhibition</dc:subject>
+<dc:identifier>10.1126/science.1252467</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1315.2.summary?rss=1">
+<title>[Books et al.] Books Received</title>
+<link>http://www.sciencemag.org/content/343/6177/1315.2.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<description><![CDATA[A listing of books received at Science during the week ending 14 March 2014.
+]]></description>
+<dc:identifier>10.1126/science.343.6177.1315-b</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1316.summary?rss=1">
+<title>[Policy Forum] Carbon Market Lessons and Global Policy Outlook</title>
+<link>http://www.sciencemag.org/content/343/6177/1316.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Richard G. Newell</dc:creator>
+<description><![CDATA[Ongoing work on linking markets and mixing policies builds on successes and failures in pricing and trading carbon.
+Authors: Richard G. Newell, William A. Pizer, Daniel Raimi]]></description>
+<dc:subject>Environmental Economics</dc:subject>
+<dc:identifier>10.1126/science.1246907</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1318.abstract?rss=1">
+<title>[Perspective] Testing the Limits of Accretion</title>
+<link>http://www.sciencemag.org/content/343/6177/1318.abstract?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Andrew King</dc:creator>
+<description><![CDATA[Observations reveal a greater influence of rapidly accreting black holes on their host galaxy than expected. [Also see Report by Soria et al.]
+Author: Andrew King]]></description>
+<dc:subject>Astronomy</dc:subject>
+<dc:identifier>10.1126/science.1251944</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1319.abstract?rss=1">
+<title>[Perspective] Nanoframe Catalysts</title>
+<link>http://www.sciencemag.org/content/343/6177/1319.abstract?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Julia R. Greer</dc:creator>
+<description><![CDATA[Nanoframe electrocatalysts containing only small amounts of precious metal show very high activities. [Also see Report by Chen et al.]
+Author: Julia R. Greer]]></description>
+<dc:subject>Chemistry</dc:subject>
+<dc:identifier>10.1126/science.1251865</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1320.abstract?rss=1">
+<title>[Perspective] Unlocking Ancient Protein Palimpsests</title>
+<link>http://www.sciencemag.org/content/343/6177/1320.abstract?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Enrico Cappellini</dc:creator>
+<description><![CDATA[High-resolution, high-throughput mass spectrometry studies of ancient protein samples provide insights into protein function in the distant past.
+Authors: Enrico Cappellini, Matthew J. Collins, M. Thomas P. Gilbert]]></description>
+<dc:subject>Biochemistry</dc:subject>
+<dc:identifier>10.1126/science.1249274</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1322.abstract?rss=1">
+<title>[Perspective] RIPK3 Takes Another Deadly Turn</title>
+<link>http://www.sciencemag.org/content/343/6177/1322.abstract?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Jianke Zhang</dc:creator>
+<description><![CDATA[Blocking an enzyme involved in necroptosis may prove toxic by promoting another form of cell death. [Also see Report by Newton et al.]
+Authors: Jianke Zhang, Francis Ka-Ming Chan]]></description>
+<dc:subject>Cell Biology</dc:subject>
+<dc:identifier>10.1126/science.1252526</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1323.abstract?rss=1">
+<title>[Perspective] Epstein-Barr Virus Turns 50</title>
+<link>http://www.sciencemag.org/content/343/6177/1323.abstract?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Paul M. Lieberman</dc:creator>
+<description><![CDATA[Fifty years after the discovery of Epstein-Barr virus and its association with cancer, a vaccine or therapy for the virus remains elusive.
+Author: Paul M. Lieberman]]></description>
+<dc:subject>Virology</dc:subject>
+<dc:identifier>10.1126/science.1252786</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1325.abstract?rss=1">
+<title>[Perspective] Flow of Control in Networks</title>
+<link>http://www.sciencemag.org/content/343/6177/1325.abstract?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Jukka-Pekka “JP” Onnela</dc:creator>
+<description><![CDATA[A simple framework allows the classification of complex networks based on the flow of control. [Also see Report by Ruths and Ruths]
+Author: Jukka-Pekka “JP” Onnela]]></description>
+<dc:subject>Physics</dc:subject>
+<dc:identifier>10.1126/science.1251746</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1326.abstract?rss=1">
+<title>[Perspective] Counting the Ways to Decode Dynamic Signals</title>
+<link>http://www.sciencemag.org/content/343/6177/1326.abstract?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Roy Wollman</dc:creator>
+<description><![CDATA[The social amoeba Dictyostelium discoideum decodes an oscillatory signal to measure time.  [Also see Research Article by Cai et al.]
+Author: Roy Wollman]]></description>
+<dc:subject>Development</dc:subject>
+<dc:identifier>10.1126/science.1252247</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1243727.abstract?rss=1">
+<title>[Review] Virulence and Pathogenesis of HIV-1 Infection: An Evolutionary Perspective</title>
+<link>http://www.sciencemag.org/content/343/6177/1243727.abstract?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Christophe Fraser</dc:creator>
+<description><![CDATA[Why some individuals develop AIDS rapidly whereas others remain healthy without treatment for many years remains a central question of HIV research. An evolutionary perspective reveals an apparent conflict between two levels of selection on the virus. On the one hand, there is rapid evolution of the virus in the host, and on the other, new observations indicate the existence of virus factors that affect the virulence of infection whose influence persists over years in infected individuals and across transmission events. Here, we review recent evidence that shows that viral genetic factors play a larger role in modulating disease severity than anticipated. We propose conceptual models that reconcile adaptive evolution at both levels of selection. Evolutionary analysis provides new insight into HIV pathogenesis.
+Authors: Christophe Fraser, Katrina Lythgoe, Gabriel E. Leventhal, George Shirreff, T. Déirdre Hollingsworth, Samuel Alizon, Sebastian Bonhoeffer]]></description>
+<dc:identifier>10.1126/science.1243727</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1249531.abstract?rss=1">
+<title>[Research Article] Nucleocytoplasmic Shuttling of a GATA Transcription Factor Functions as a Development Timer</title>
+<link>http://www.sciencemag.org/content/343/6177/1249531.abstract?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Huaqing Cai</dc:creator>
+<description><![CDATA[The link between chemoattractant gradients, developmental signals, and gene expression in social amoebae is elucidated.  [Also see Perspective by Wollman]
+Authors: Huaqing Cai, Mariko Katoh-Kurasawa, Tetsuya Muramoto, Balaji Santhanam, Yu Long, Lei Li, Masahiro Ueda, Pablo A. Iglesias, Gad Shaulsky, Peter N. Devreotes]]></description>
+<dc:identifier>10.1126/science.1249531</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1330.summary?rss=1">
+<title>[Report] Super-Eddington Mechanical Power of an Accreting Black Hole in M83</title>
+<link>http://www.sciencemag.org/content/343/6177/1330.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>R. Soria</dc:creator>
+<description><![CDATA[A stellar-mass black hole shocks its surroundings with kinetic energy in excess of its predicted radiative output. [Also see Perspective by King]
+Authors: R. Soria, K. S. Long, W. P. Blair, L. Godfrey, K. D. Kuntz, E. Lenc, C. Stockdale, P. F. Winkler]]></description>
+<dc:identifier>10.1126/science.1248759</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1333.summary?rss=1">
+<title>[Report] Large-Amplitude Spin Dynamics Driven by a THz Pulse in Resonance with an Electromagnon</title>
+<link>http://www.sciencemag.org/content/343/6177/1333.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>T. Kubacka</dc:creator>
+<description><![CDATA[The electric field of an electromagnetic pulse exerts ultrafast control on the spin dynamics of the multiferroic TbMnO3.
+Authors: T. Kubacka, J. A. Johnson, M. C. Hoffmann, C. Vicario, S. de Jong, P. Beaud, S. Grübel, S.-W. Huang, L. Huber, L. Patthey, Y.-D. Chuang, J. J. Turner, G. L. Dakovski, W.-S. Lee, M. P. Minitti, W. Schlotter, R. G. Moore, C. P. Hauri, S. M. Koohpayeh, V. Scagnoli, G. Ingold, S. L. Johnson, U. Staub]]></description>
+<dc:identifier>10.1126/science.1242862</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1336.summary?rss=1">
+<title>[Report] Angular Fluctuations of a Multicomponent Order Describe the Pseudogap of YBa2Cu3O6+x</title>
+<link>http://www.sciencemag.org/content/343/6177/1336.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Lauren E. Hayward</dc:creator>
+<description><![CDATA[A model reproduces the temperature dependence of charge-order fluctuations in a cuprate superconductor.
+Authors: Lauren E. Hayward, David G. Hawthorn, Roger G. Melko, Subir Sachdev]]></description>
+<dc:identifier>10.1126/science.1246310</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1339.summary?rss=1">
+<title>[Report] Highly Crystalline Multimetallic Nanoframes with Three-Dimensional Electrocatalytic Surfaces</title>
+<link>http://www.sciencemag.org/content/343/6177/1339.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Chen Chen</dc:creator>
+<description><![CDATA[Highly active electrocatalysts are created by eroding away all but the edges of platinum-nickel nanocrystals.  [Also see Perspective by Greer]
+Authors: Chen Chen, Yijin Kang, Ziyang Huo, Zhongwei Zhu, Wenyu Huang, Huolin L. Xin, Joshua D. Snyder, Dongguo Li, Jeffrey A. Herron, Manos Mavrikakis, Miaofang Chi, Karren L. More, Yadong Li, Nenad M. Markovic, Gabor A. Somorjai, Peidong Yang, Vojislav R. Stamenkovic]]></description>
+<dc:identifier>10.1126/science.1249061</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1343.summary?rss=1">
+<title>[Report] The Source Crater of Martian Shergottite Meteorites</title>
+<link>http://www.sciencemag.org/content/343/6177/1343.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Stephanie C. Werner</dc:creator>
+<description><![CDATA[Martian meteorites originated from the 3- to 5-million-year-old Mojave impact crater.
+Authors: Stephanie C. Werner, Anouck Ody, François Poulet]]></description>
+<dc:identifier>10.1126/science.1247282</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1347.summary?rss=1">
+<title>[Report] Iron Fertilization of the Subantarctic Ocean During the Last Ice Age</title>
+<link>http://www.sciencemag.org/content/343/6177/1347.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Alfredo Martínez-García</dc:creator>
+<description><![CDATA[Nitrogen isotopes in foraminifera show the role of iron fertilization on atmospheric carbon dioxide during the last ice age.
+Authors: Alfredo Martínez-García, Daniel M. Sigman, Haojia Ren, Robert F. Anderson, Marietta Straub, David A. Hodell, Samuel L. Jaccard, Timothy I. Eglinton, Gerald H. Haug]]></description>
+<dc:identifier>10.1126/science.1246848</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1350.summary?rss=1">
+<title>[Report] From Parasitism to Mutualism: Unexpected Interactions Between a Cuckoo and Its Host</title>
+<link>http://www.sciencemag.org/content/343/6177/1350.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Daniela Canestrari</dc:creator>
+<description><![CDATA[The carrion crow Corvus corone corone can benefit from parasitism by the great spotted cuckoo Clamator glandarius.
+Authors: Daniela Canestrari, Diana Bolopo, Ted C. J. Turlings, Gregory Röder, José M. Marcos, Vittorio Baglione]]></description>
+<dc:identifier>10.1126/science.1249008</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1353.summary?rss=1">
+<title>[Report] β-Catenin Activation Regulates Tissue Growth Non–Cell Autonomously in the Hair Stem Cell Niche</title>
+<link>http://www.sciencemag.org/content/343/6177/1353.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Elizabeth R. Deschene</dc:creator>
+<description><![CDATA[Signals generated by mouse hair follicle stem cells generate new hair growth.
+Authors: Elizabeth R. Deschene, Peggy Myung, Panteleimon Rompolas, Giovanni Zito, Thomas Yang Sun, Makoto M. Taketo, Ichiko Saotome, Valentina Greco]]></description>
+<dc:identifier>10.1126/science.1248373</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1357.summary?rss=1">
+<title>[Report] Activity of Protein Kinase RIPK3 Determines Whether Cells Die by Necroptosis or Apoptosis</title>
+<link>http://www.sciencemag.org/content/343/6177/1357.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Kim Newton</dc:creator>
+<description><![CDATA[A particular protein kinase functions at a critical control point that determines whether—and how—cells die.  [Also see Perspective by Zhang and Chan]
+Authors: Kim Newton, Debra L. Dugger, Katherine E. Wickliffe, Neeraj Kapoor, M. Cristina de Almagro, Domagoj Vucic, Laszlo Komuves, Ronald E. Ferrando, Dorothy M. French, Joshua Webster, Merone Roose-Girma, Søren Warming, Vishva M. Dixit]]></description>
+<dc:identifier>10.1126/science.1249361</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1360.summary?rss=1">
+<title>[Report] Highly Multiplexed Subcellular RNA Sequencing in Situ</title>
+<link>http://www.sciencemag.org/content/343/6177/1360.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Je Hyuk Lee</dc:creator>
+<description><![CDATA[Reads of cellular RNA transcripts demonstrate spatial expression differences during simulated wound healing.
+Authors: Je Hyuk Lee, Evan R. Daugharthy, Jonathan Scheiman, Reza Kalhor, Joyce L. Yang, Thomas C. Ferrante, Richard Terry, Sauveur S. F. Jeanty, Chao Li, Ryoji Amamoto, Derek T. Peters, Brian M. Turczyk, Adam H. Marblestone, Samuel A. Inverso, Amy Bernard, Prashant Mali, Xavier Rios, John Aach, George M. Church]]></description>
+<dc:identifier>10.1126/science.1250212</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1363.summary?rss=1">
+<title>[Report] Structure of the Mitochondrial Translocator Protein in Complex with a Diagnostic Ligand</title>
+<link>http://www.sciencemag.org/content/343/6177/1363.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Łukasz Jaremko</dc:creator>
+<description><![CDATA[A ligand stabilizes a mammalian mitochondrial cholesterol transporter, allowing high-resolution structural analysis.
+Authors: Łukasz Jaremko, Mariusz Jaremko, Karin Giller, Stefan Becker, Markus Zweckstetter]]></description>
+<dc:identifier>10.1126/science.1248725</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1366.summary?rss=1">
+<title>[Report] Epistasis and Allele Specificity in the Emergence of a Stable Polymorphism in Escherichia coli</title>
+<link>http://www.sciencemag.org/content/343/6177/1366.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Jessica Plucain</dc:creator>
+<description><![CDATA[The emergence of a stable polymorphism in bacteria involved a multistep process including three specific mutations.
+Authors: Jessica Plucain, Thomas Hindré, Mickaël Le Gac, Olivier Tenaillon, Stéphane Cruveiller, Claudine Médigue, Nicholas Leiby, William R. Harcombe, Christopher J. Marx, Richard E. Lenski, Dominique Schneider]]></description>
+<dc:identifier>10.1126/science.1248688</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1370.summary?rss=1">
+<title>[Report] Humans Can Discriminate More than 1 Trillion Olfactory Stimuli</title>
+<link>http://www.sciencemag.org/content/343/6177/1370.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>C. Bushdid</dc:creator>
+<description><![CDATA[The number of different odor mixtures people can distinguish is several orders of magnitude larger than anticipated.
+Authors: C. Bushdid, M. O. Magnasco, L. B. Vosshall, A. Keller]]></description>
+<dc:identifier>10.1126/science.1249168</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1373.summary?rss=1">
+<title>[Report] Control Profiles of Complex Networks</title>
+<link>http://www.sciencemag.org/content/343/6177/1373.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Justin Ruths</dc:creator>
+<description><![CDATA[The control profile is a network statistic that may prove useful in approaching the control of complex networks.  [Also see Perspective by Onnela]
+Authors: Justin Ruths, Derek Ruths]]></description>
+<dc:identifier>10.1126/science.1242063</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1376.summary?rss=1">
+<title>[Report] Fossilized Nuclei and Chromosomes Reveal 180 Million Years of Genomic Stasis in Royal Ferns</title>
+<link>http://www.sciencemag.org/content/343/6177/1376.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<dc:creator>Benjamin Bomfleur</dc:creator>
+<description><![CDATA[Fern fossils provide evidence that nuclear shape, size, and chromosomal content have changed little since the Jurassic.
+Authors: Benjamin Bomfleur, Stephen McLoughlin, Vivi Vajda]]></description>
+<dc:identifier>10.1126/science.1249884</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1378.1.summary?rss=1">
+<title>[New Products] New Products</title>
+<link>http://www.sciencemag.org/content/343/6177/1378.1.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<description><![CDATA[A weekly roundup of information on newly offered instrumentation, apparatus, and laboratory materials of potential interest to researchers.
+]]></description>
+<dc:identifier>10.1126/science.343.6177.1378-a</dc:identifier>
+</item>
+<item rdf:about="http://www.sciencemag.org/content/343/6177/1378.2.summary?rss=1">
+<title>[Podcast] Science Podcast: 21 March Show</title>
+<link>http://www.sciencemag.org/content/343/6177/1378.2.summary?rss=1</link>
+<dc:date>2014-03-21</dc:date>
+<description><![CDATA[On this week's show: human odor discrimination pegged at one trillion odors and a roundup from our daily news site.
+]]></description>
+<dc:identifier>10.1126/science.343.6177.1378-b</dc:identifier>
+</item>
+</rdf:RDF>
